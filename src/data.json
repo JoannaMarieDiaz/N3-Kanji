@@ -1,0 +1,1167 @@
+{
+  "丁": {
+    "onyomi": "チョウ, テイ, チン, トウ, チ",
+    "kunyomi": "ひのと",
+    "english": "street, ward, town",
+    "example": [
+      "丁目: ちょうめ: district of a town, city block",
+      "庖丁: ほうちょう: kitchen knife, carving knife"
+    ]
+  },
+  "両": {
+    "onyomi": "リョウ",
+    "kunyomi": "てる, ふたつ",
+    "english": "both, old Japanese coin, counter for carriages (eg, in a train), two",
+    "example": [
+      "両者 りょうしゃ pair, the two, both persons, both things (n)",
+      "両替 りょうがえ change, money exchange (n, vs)",
+      "両方 りょうほう both sides, both parties (n)",
+      "両面 りょうめん both sides, two sides (n)",
+      "両立 りょうりつ compatibility, coexistence, standing together (n, vs)"
+    ]
+  },
+  "丸": {
+    "onyomi": "ガン",
+    "kunyomi": "まる, まる.める, まる.い",
+    "english": "round, full, month, perfection, -ship, pills, make round",
+    "example": [
+      "丸味 まるみ roundness, rotundity (n)",
+      "丸める まるめる to make round, to roll up, to curl up, to seduce, to explain away (Ichidan verb, vt)",
+      "日の丸 ひのまる outline of the sun (esp. represented as a red circle), the Japanese flag (n)"
+    ]
+  },
+  "予": {
+    "onyomi": "ヨ, シャ",
+    "kunyomi": "あらかじ.め",
+    "english": "beforehand, previous, myself, I",
+    "example": [
+      "猶予 ゆうよ postponement, deferment, extension (of time) (n, vs)",
+      "予感 よかん presentiment, premonition (n, vs)",
+      "予期 よき expectation, assume will happen, forecast (n, vs)",
+      "予告 よこく advance notice, previous note, preliminary announcement (n, vs)",
+      "予算 よさん estimate, budget (n, vs)"
+    ]
+  },
+  "争": {
+    "onyomi": "ソウ",
+    "kunyomi": "あらそ.う, いか.でか",
+    "english": "contend, dispute, argue",
+    "example": [
+      "競争 きょうそう competition, contest, to compete (n, vs)",
+      "戦争 せんそう war (n, vs)",
+      "争い あらそい dispute, strife, quarrel, dissension, conflict, rivalry, contest (n)",
+      "争う あらそう to compete, to contest, to contend, to quarrel, to argue, to dispute, to be at variance, to oppose",
+      "争議 そうぎ dispute, quarrel, strike (n)"
+    ]
+  },
+  "交": {
+    "onyomi": "コウ",
+    "kunyomi": "まじ.わる, まじ.える, ま.じる, まじ.る, ま.ざる, ま.ぜる, -か.う, か.わす, かわ.す, こもごも",
+    "english": "mingle, mixing, association, coming and going",
+    "example": [
+      "外交 がいこう diplomacy (n)",
+      "交わる まじわる to cross, to intersect, to associate with, to mingle with, to interest, to join (v5r, intransitive verb)",
+      "交換 こうかん exchange, interchange, switching, reciprocity, barter, substitution, replacement, clearing (of checks, cheques) (n, vs)",
+      "交響曲 こうきょうきょく symphony (n)",
+      "交互 こうご mutual, reciprocal, alternate (n, adj-no)"
+    ]
+  },
+  "他": {
+    "onyomi": "タ",
+    "kunyomi": "ほか",
+    "english": "other, another, the others",
+    "example": [
+      "他 ほか other (esp. places and things), the rest (adj-no, n, n-adv)",
+      "他殺 たさつ a murder (n)",
+      "他方 たほう another side, different direction, (on) the other hand (adv, n)",
+      "他人 あだびと another person, unrelated person, outsider, stranger (n)"
+    ]
+  },
+  "付": {
+    "onyomi": "フ",
+    "kunyomi": "つ.ける, -つ.ける, -づ.ける, つ.け, つ.け-, -つ.け, -づ.け, -づけ, つ.く, -づ.く, つ.き, -つ.き, -つき, -づ.き, -づき",
+    "english": "adhere, attach, refer to, append",
+    "example": [
+      "近付く ちかづく to approach, to get near, to get acquainted with, to get closer (v5k)",
+      "近付ける ちかづける to bring near, to put close, to let come near, to associate with (Ichidan verb, vt)",
+      "跡片付け あとかたづけ tidying up, cleaning, clearing away, putting in order (n, vs)",
+      "交付 こうふ delivering, furnishing (with copies) (n, vs)",
+      "受付ける うけつける to be accepted, to receive (an application) (Ichidan verb, vt)"
+    ]
+  },
+  "令": {
+    "onyomi": "レイ",
+    "kunyomi": "な",
+    "english": "orders, ancient laws, command, decree",
+    "example": [
+      "法令 ほうれい laws and ordinances, acts (of parliament, congress, etc.) (n)",
+      "命令 めいれい order, command, decree, directive, (software) instruction (n, vs)",
+      "年令 ねんれい age, years (n)"
+    ]
+  },
+  "仲": {
+    "onyomi": "チュウ",
+    "kunyomi": "なか",
+    "english": "go-between, relationship",
+    "example": [
+      "仲断 ちゅうだん interruption, suspension, break (n, vs)",
+      "仲 なか relation, relationship (n)",
+      "仲介 ちゅうかい agency, intermediation (n, vs)",
+      "仲間 なかま company, fellow, colleague, associate, comrade, mate, group, circle of friends, partner (n)",
+      "仲裁 ちゅうさい arbitration, intercession, mediation (n, vs)"
+    ]
+  },
+  "伝": {
+    "onyomi": "デン, テン",
+    "kunyomi": "つた.わる, つた.える, つた.う, つだ.う, -づた.い, つて",
+    "english": "transmit, go along, walk along, follow, report, communicate, legend, tradition",
+    "example": [
+      "遺伝 いでん heredity, inherent (adj-na, n, vs)",
+      "手伝い てつだい helper, assistant, help (n)",
+      "手伝う てつだう to help, to assist, to take part in (v5s, vt)",
+      "宣伝 せんでん propaganda, publicity, advertisement, advertising (n, vs)",
+      "伝う つたう to go along, to walk along, to follow (v5s)"
+    ]
+  },
+  "位": {
+    "onyomi": "イ",
+    "kunyomi": "くらい, ぐらい",
+    "english": "rank, grade, throne, crown, about, some",
+    "example": [
+      "各位 かくい everyone, ladies and gentlemen, attention media representatives (eg heading on a press release) (n)",
+      "学位 がくい (university) degree (n)",
+      "順位 じゅんい order, rank, precedence (n)",
+      "単位 たんい unit, denomination, credit (in school) (n)",
+      "地位 ちい (social) position, status (n)"
+    ]
+  },
+  "例": {
+    "onyomi": "レイ",
+    "kunyomi": "たと.える",
+    "english": "example, custom, usage, precedent",
+    "example": [
+      "恒例 こうれい established practice, established practise, custom (n)",
+      "実例 じつれい example, illustration, precedent (n)",
+      "条例 じょうれい regulations, rules, laws, acts, ordinance (n)",
+      "先例 せんれい precedent (n)",
+      "前例 ぜんれい precedent (n)"
+    ]
+  },
+  "係": {
+    "onyomi": "ケイ",
+    "kunyomi": "かか.る, かかり, -がかり, かか.わる",
+    "english": "person in charge, connection, duty, concern oneself",
+    "example": [
+      "関係 かんけい relation, connection (n, vs)",
+      "無関係 むかんけい unrelated (adj-na, n, adj-no)",
+      "係り かかり official, duty, person in charge (n)"
+    ]
+  },
+  "信": {
+    "onyomi": "シン",
+    "kunyomi": "なし",
+    "english": "faith, truth, fidelity, trust",
+    "example": [
+      "確信 かくしん conviction, belief, confidence (n, vs)",
+      "自信 じしん self-confidence (n, vs)",
+      "受信 じゅしん reception (eg radio), receipt (n, vs)",
+      "信じる しんじる to believe, to believe in, to place trust in, to confide in, to have faith in (Ichidan verb, vt)",
+      "信ずる しんずる to believe, to believe in, to place trust in, to confide in, to have faith in (Ichidan verb - zuru verb (alternative form of -jiru verbs), vt)"
+    ]
+  },
+  "倉": {
+    "onyomi": "ソウ",
+    "kunyomi": "くら",
+    "english": "godown, warehouse, storehouse, cellar, treasury",
+    "example": ["倉庫 そうこ storehouse, warehouse, godown (n)"]
+  },
+  "候": {
+    "onyomi": "コウ",
+    "kunyomi": "そうろう",
+    "english": "climate, season, weather",
+    "example": [
+      "気候 きこう climate (n)",
+      "候補 こうほ candidate, contender, prospect, pick, choice, list (n)",
+      "天候 てんこう weather (n)",
+      "立候補 りっこうほ announcing candidacy (n, vs)",
+      "徴候 ちょうこう sign, indication, omen, symptom (n)"
+    ]
+  },
+  "倍": {
+    "onyomi": "バイ",
+    "kunyomi": "なし",
+    "english": "double, twice, times, fold",
+    "example": [
+      "倍 ばい twice, double, times, -fold (n, suffix)",
+      "倍増 ばいぞう double (n, vs)",
+      "倍率 ばいりつ magnification, leverage, amplification, scaling factor, scale factor (n)"
+    ]
+  },
+  "停": {
+    "onyomi": "テイ",
+    "kunyomi": "と.める, と.まる",
+    "english": "halt, stopping",
+    "example": [
+      "調停 ちょうてい arbitration, conciliation, mediation (n, vs)",
+      "停学 ていがく suspension from school (n)",
+      "停止 ていし suspension, interruption, stoppage, ban, standstill, halt (n, vs)",
+      "停車 ていしゃ stopping (eg train) (n, vs)",
+      "停滞 ていたい stagnation, tie-up, congestion, retention, accumulation, falling into arrears (n, vs)"
+    ]
+  },
+  "健": {
+    "onyomi": "ケン",
+    "kunyomi": "すこ.やか",
+    "english": "healthy, health, strength, persistence",
+    "example": [
+      "穏健 おんけん quiet, dependable, uniform, (politically) moderate (adj-na, n)",
+      "健やか すこやか vigorous, healthy, sound (adj-na, n)",
+      "健康 けんこう health, sound, wholesome (adj-na, n)",
+      "健全 けんぜん health, soundness, wholesome (adj-na, n)",
+      "保健 ほけん health preservation, hygiene, sanitation (n)"
+    ]
+  },
+  "側": {
+    "onyomi": "ソク",
+    "kunyomi": "かわ, がわ, そば",
+    "english": "side, lean, oppose, regret",
+    "example": [
+      "縁側 えんがわ veranda, porch, balcony, open corridor (n)",
+      "側面 そくめん side, flank, sidelight, lateral (n)",
+      "内側 うちがわ inside, interior, inner part (n)",
+      "片側 かたがわ one side (n)",
+      "側 わき side, aside, armpit, back-burner (n)"
+    ]
+  },
+  "億": {
+    "onyomi": "オク",
+    "kunyomi": "なし",
+    "english": "hundred million, 10**8",
+    "example": ["億 おく 10^8, 100,000,000, hundred million (numeric)"]
+  },
+  "兆": {
+    "onyomi": "チョウ",
+    "kunyomi": "こ, -こ, -っこ",
+    "english": "portent, 10**12, trillion, sign, omen, symptoms",
+    "example": [
+      "sign, omen, indication, portent, 10^12, 1,000,000,000,000, trillion (American), (obs) billion (British)"
+    ]
+  },
+  "児": {
+    "onyomi": "ジ, ニ, ゲイ",
+    "kunyomi": "きざ.す, きざ.し",
+    "english": "newborn babe, child, young of animals",
+    "example": [
+      "s育児 いくじ childcare, nursing, upbringing (n, vs)",
+      "児 こ child, young (animal), young woman, young geisha, offshoot, interest, new shares, bird egg, (after a noun or -masu stem) -er (often of young women) (n, n-suf, n-suf)",
+      "児童 じどう children, juvenile (n)",
+      "女の児 おんなのコ girl (n)",
+      "小児科 しょうにか pediatrics (n)"
+    ]
+  },
+  "全": {
+    "onyomi": "ゼン",
+    "kunyomi": "まった.く, すべ.て",
+    "english": "whole, entire, all, complete, fulfill",
+    "example": [
+      "安全 あんぜん safety, security (adj-na, n)",
+      "完全 かんぜん perfection, completeness (adj-na, n)",
+      "adhere, attach, refer to, append",
+      "sign, omen, indication, portent, 10^12, 1,000,000,000,000, trillion (American), (obs) billion (British)",
+      "全員 ぜんいん all members (unanimity), all hands, the whole crew, everyone, everybody (n-adv, n)",
+      "全集 ぜんしゅう complete works (n)"
+    ]
+  },
+  "公": {
+    "onyomi": "コウ, ク",
+    "kunyomi": "おおやけ",
+    "english": "public, prince, official, governmental",
+    "example": [
+      "公営 こうえい public management (n)",
+      "公園 こうえん (public) park (n)",
+      "公演 こうえん public performance, sumo exhibition in a foreign country (n, vs)",
+      "公開 こうかい open to the public (n, vs, adj-no)",
+      "公害 こうがい pollution, public nuisance, contamination (n)"
+    ]
+  },
+  "共": {
+    "onyomi": "キョウ",
+    "kunyomi": "とも, とも.に, -ども",
+    "english": "together, both, neither, all, and, alike, with",
+    "example": [
+      "何共 なんとも nothing (with neg. verb), quite, not a bit (adv)",
+      "共に ともに sharing with, participate in, both, alike, together, along with, with, including (adv, vs)",
+      "共稼ぎ ともかせぎ working together, (husband and wife) earning a living together (n, vs)",
+      "共感 きょうかん sympathy, empathy, response (n, vs)",
+      "共産主義 きょうさんしゅぎ communism, collectivism (n)"
+    ]
+  },
+  "兵": {
+    "onyomi": "ヘイ, ヒョウ",
+    "kunyomi": "つわもの",
+    "english": "soldier, private, troops, army, warfare, strategy, tactics",
+    "example": [
+      "核兵器 かくへいき nuclear weapons (n)",
+      "徴兵 ちょうへい conscription, recruitment, enlistment (n, vs)",
+      "兵器 へいき arms, weapons, ordinance (n)",
+      "兵士 へいし soldier (n)",
+      "兵隊 へいたい soldier, sailor (n)"
+    ]
+  },
+  "具": {
+    "onyomi": "グ",
+    "kunyomi": "そな.える, つぶさ.に",
+    "english": "tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture",
+    "example": [
+      "雨具 あまぐ rain gear (n)",
+      "家具 かぐ furniture (n)",
+      "絵具 えのぐ colors, colours, paints (n)",
+      "玩具 がんぐ toy (n)",
+      "器具 きぐ utensil (n)"
+    ]
+  },
+  "典": {
+    "onyomi": "テン, デン",
+    "kunyomi": "そな.える, つぶさ.に",
+    "english": "code, ceremony, law, rule",
+    "example": [
+      "古典 こてん old book, classics, classic (n)",
+      "典型 てんけい type, pattern, archetypal (n, adj-no)",
+      "典型的 てんけいてき typical, prototypical, representative, stereotypical, model, ideal (adj-na)",
+      "ことば典 ことばてん dictionary (n)",
+      "百科辞典 ひゃっかじてん encyclopedia (encyclopaedia) (n)"
+    ]
+  },
+  "内": {
+    "onyomi": "ナイ, ダイ",
+    "kunyomi": "うち",
+    "english": "inside, within, between, among, house, home",
+    "example": [
+      "案内 あんない information, guidance, leading, to guide, to show (around), to conduct (n, vs)",
+      "以内 いない within, inside of, less than (n, n-suf)",
+      "屋内 おくない indoor (court, pool, etc.) (n)",
+      "家内 かない (my) wife, inside the home, one's family (n)",
+      "境内 けいだい compound, grounds (n)"
+    ]
+  },
+  "冷": {
+    "onyomi": "レイ",
+    "kunyomi": "つめ.たい, ひ.える, ひ.や, ひ.ややか, ひ.やす, ひ.やかす, さ.める, さ.ます",
+    "english": "cool, cold (beer, person), chill",
+    "example": [
+      "寒冷 かんれい cold, coldness, chilliness (adj-na, n)",
+      "冷える ひえる to grow cold, to get chilly, to cool down (Ichidan verb, intransitive verb)",
+      "冷え込む ひえこむ to get colder, to get chilled (v5m, intransitive verb)",
+      "冷たい つべたい cold (to the touch), chilly, icy, freezing, coldhearted, unfeeling (adj)",
+      "冷める さめる to become cool, to come down (fever), to cool down (interest), to abate, to subside, to dampen (Ichidan verb, intransitive verb)"
+    ]
+  },
+  "刀": {
+    "onyomi": "トウ",
+    "kunyomi": "かたな, そり",
+    "english": "sword, saber, knife",
+    "example": [
+      "刀 とう (single-edged) sword, katana, dagger, knife, scalpel (n)"
+    ]
+  },
+  "列": {
+    "onyomi": "レツ, レ",
+    "kunyomi": "なし",
+    "english": "file, row, rank, tier, column",
+    "example": [
+      "系列 けいれつ series, sequence, system, order of succession, keiretsu (conglomeration of businesses linked by cross-shareholdings) (n)",
+      "行列 ぎょうれつ line, procession, matrix (n, vs, n)",
+      "整列 せいれつ standing in a row, forming a line, alignment (n, vs)",
+      "直列 ちょくれつ series (eg electrical), serial (n, adj-f)",
+      "陳列 ちんれつ exhibition, display, show (n, vs)"
+    ]
+  },
+  "初": {
+    "onyomi": "ショ",
+    "kunyomi": "はじ.め, はじ.めて, はつ, はつ-, うい-, -そ.める, -ぞ.め",
+    "english": "first time, beginning",
+    "example": [
+      "最初 さいしょ beginning, outset, first, onset (adj-no, n-adv, n-t)",
+      "初 はつ first, new (n, adj-no, n-suf)",
+      "初夏 はつなつ early summer, fourth month of the lunar calendar (n)",
+      "初期 しょき early (days), initial stage, (computer) initial (n, adj-no)",
+      "初級 しょきゅう elementary level (n)"
+    ]
+  },
+  "利": {
+    "onyomi": "リ",
+    "kunyomi": "き.く",
+    "english": "profit, advantage, benefit",
+    "example": [
+      "営利 えいり money-making, commercialized, commercialised (n)",
+      "金利 きんり interest rates (n)",
+      "権利 けんり right, privilege (n)",
+      "勝利 しょうり victory, triumph, conquest, success, win (n, vs)",
+      "不利 ふり disadvantage, handicap, unfavorable, unfavourable, drawback (adj-na, n)"
+    ]
+  },
+  "刷": {
+    "onyomi": "サツ",
+    "kunyomi": "す.る, -ず.り, -ずり, は.く",
+    "english": "printing, print",
+    "example": ["印刷 いんさつ printing (n, vs)"]
+  },
+  "副": {
+    "onyomi": "フク",
+    "kunyomi": "なし",
+    "english": "vice-, duplicate, copy",
+    "example": [
+      "副作用 ふくさよう reaction, secondary effect, side effect (n)",
+      "副 とりわけ especially, above all (adv, n)"
+    ]
+  },
+  "功": {
+    "onyomi": "コウ, ク",
+    "kunyomi": "いさお",
+    "english": "achievement, merits, success, honor, credit",
+    "example": [
+      "功夫 くふう device, scheme, devising, scheming, dedication to spiritual improvement (esp. through Zen meditation) (n, vs)",
+      "成功 せいこう success, hit (n, vs)"
+    ]
+  },
+  "加": {
+    "onyomi": "カ",
+    "kunyomi": "くわ.える, くわ.わる",
+    "english": "add, addition, increase, join, include, Canada",
+    "example": [
+      "加える くわえる to append, to sum up, to add (up), to include, to increase, to inflict (Ichidan verb, vt)",
+      "加わる くわわる to join in, to accede to, to increase, to gain in (influence) (v5r, intransitive verb)",
+      "加害者 かがいしゃ assailant (n)",
+      "加減 かげん addition and subtraction, allowance for, degree, extent, measure, condition, state of health, seasoning, flavor, flavour, moderation, adjustment, influence (of the weather), chance (n, adj-na)",
+      "加工 かこう manufacturing, processing, treatment, machining (n, vs)"
+    ]
+  },
+  "助": {
+    "onyomi": "ジョ",
+    "kunyomi": "たす.ける, たす.かる, す.ける, すけ",
+    "english": "help, rescue, assist",
+    "example": [
+      "援助 えんじょ assistance, aid, support (n, vs)",
+      "救助 きゅうじょ relief, aid, rescue (n, vs)",
+      "sign, omen, indication, portent, 10^12, 1,000,000,000,000, trillion (American), (obs) billion (British)",
+      "助教授 じょきょうじゅ assistant professor (n)",
+      "助詞 じょし particle, postposition (n)"
+    ]
+  },
+  "努": {
+    "onyomi": "ド",
+    "kunyomi": "つと.める",
+    "english": "toil, diligent, as much as possible",
+    "example": [
+      "努力 どりょく great effort, exertion, endeavour, endeavor, effort (n, vs)"
+    ]
+  },
+  "労": {
+    "onyomi": "ロウ",
+    "kunyomi": "ろう.する, いたわ.る, いた.ずき, ねぎら, つか.れる, ねぎら.う",
+    "english": "labor, thank for, reward for, toil, trouble",
+    "example": [
+      "ご苦労様 ごくろうさま thank you very much for your ..., I appreciate your efforts (exp, adj-na)",
+      "過労 かろう overwork, strain (n)",
+      "勤労 きんろう labor, labour, exertion, diligent service (n, vs)",
+      "苦労 くろう troubles, hardships (adj-na, n, vs)",
+      "疲労 ひろう fatigue, weariness (n, vs)"
+    ]
+  },
+  "勇": {
+    "onyomi": "ユウ",
+    "kunyomi": "いさ.む",
+    "english": "courage, cheer up, be in high spirits, bravery, heroism",
+    "example": [
+      "ご苦労様 ごくろうさま thank you very much for your ..., I appreciate your efforts (exp, adj-na)",
+      "過労 かろう overwork, strain (n)",
+      "勤労 きんろう labor, labour, exertion, diligent service (n, vs)",
+      "苦労 くろう troubles, hardships (adj-na, n, vs)",
+      "疲労 ひろう fatigue, weariness (n, vs)"
+    ]
+  },
+  "勝": {
+    "onyomi": "ショウ",
+    "kunyomi": "か.つ, -が.ち, まさ.る, すぐ.れる, かつ",
+    "english": "victory, win, prevail, excel",
+    "example": [
+      "決勝 けっしょう decision of a contest, finals (in sports) (n)",
+      "勝手 かって one's own convenience, one's way, convenience or ease of use, knowledge of how to use, circumstances, situation (eg financial), environment, kitchen, arbitrary (adj-na, n)",
+      "勝敗 しょうはい victory or defeat, issue (of battle) (n)",
+      "勝負 しょうぶ victory or defeat, match, contest, game, bout (n, vs)",
+      "勝利 しょうり victory, triumph, conquest, success, win (n, vs)"
+    ]
+  },
+  "包": {
+    "onyomi": "ホウ",
+    "kunyomi": "つつ.む, くる.む",
+    "english": "wrap, pack up, cover, conceal",
+    "example": [
+      "包み つつみ bundle, package, parcel, bale (n)",
+      "包囲 ほうい siege, encirclement, envelopment (n, vs)",
+      "包装 ほうそう packing, wrapping (n, vs)",
+      "包む つつむ to wrap up, to tuck in, to pack, to do up, to cover with, to dress in, to conceal, to hide, to be engulfed in, to be enveloped by (v5m, vt, v5m)",
+      "小包み こづつみ parcel, package (n)"
+    ]
+  },
+  "化": {
+    "onyomi": "カ, ケ",
+    "kunyomi": "ば.ける, ば.かす, ふ.ける, け.する",
+    "english": "change, take the form of, influence, enchant, delude, -ization",
+    "example": [
+      "御化け おばけ goblin, apparition, monster, ghost (n)",
+      "あっ化 あっか (suffer) deterioration, growing worse, aggravation, degeneration, corruption (n, vs)",
+      "化ける ばける to appear in disguise, to take the form of, to change for the worse, to corrupt (Ichidan verb, intransitive verb)",
+      "化学 ばけがく chemistry, chemical (company) (n)",
+      "化石 かせき fossil, petrifaction, fossilization, fossilisation (n, vs)"
+    ]
+  },
+  "卒": {
+    "onyomi": "ソツ, シュツ",
+    "kunyomi": "そっ.する, お.える, お.わる, ついに, にわか",
+    "english": "graduate, soldier, private, die",
+    "example": [
+      "卒業 そつぎょう graduation, completion (eg of a course), outgrowing something, moving on (n, vs)",
+      "卒先 そっせん taking the initiative (n, vs)",
+      "卒直 そっちょく frankness, candour, candor, openheartedness (adj-na, n)"
+    ]
+  },
+  "協": {
+    "onyomi": "キョウ",
+    "kunyomi": "なし",
+    "english": "co-, cooperation",
+    "example": [
+      "協議 きょうぎ conference, consultation, discussion, negotiation (n, vs)",
+      "妥協 だきょう compromise, giving in (n, vs)",
+      "農協 のうきょう agricultural cooperative (n)",
+      "協同 きょうどう doing together (as equals), sharing, cooperation, co-operation, collaboration (n, vs)"
+    ]
+  },
+  "単": {
+    "onyomi": "タン",
+    "kunyomi": "ひとえ",
+    "english": "simple, one, single, merely",
+    "example": [
+      "単なる たんなる mere, simple, sheer (adj-pn)",
+      "単に たんに simply, merely, only, solely (adv, n)",
+      "単位 たんい unit, denomination, credit (in school) (n)",
+      "単一 たんいつ single, simple, sole, individual, unitary (adj-na, n)",
+      "単語 たんご word, vocabulary, (usually) single-character word (n)"
+    ]
+  },
+  "博": {
+    "onyomi": "ハク, バク",
+    "kunyomi": "なし",
+    "english": "Dr., command, esteem, win acclaim, Ph.D., exposition, fair",
+    "example": [
+      "博愛 はくあい charity, benevolence, philanthropy, (love for) humanity (n)",
+      "博士 はくし doctorate, PhD, Dr (as a title), expert, learned person (n, n-suf, n)",
+      "博物館 はくぶつかん museum (n)",
+      "博覧会 はくらんかい fair, exhibition, exposition (n)"
+    ]
+  },
+  "印": {
+    "onyomi": "イン",
+    "kunyomi": "しるし, -じるし, しる.す",
+    "english": "stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India",
+    "example": [
+      "印鑑 いんかん stamp, seal (n)",
+      "印刷 いんさつ printing (n, vs)",
+      "印紙 いんし (revenue) stamp (n)",
+      "印象 いんしょう impression (n, vs)",
+      "調印 ちょういん signature, signing, sealing (n, vs)"
+    ]
+  },
+  "原": {
+    "onyomi": "ゲン",
+    "kunyomi": "はら",
+    "english": "meadow, original, primitive, field, plain, prairie, tundra, wilderness",
+    "example": [
+      "原っぱ はらっぱ open field, empty lot, plain (n)",
+      "原因 げんいん cause, origin, source (n, vs)",
+      "原稿 げんこう manuscript, copy (n)",
+      "原稿用紙 げんこうようし Japanese writing paper (n)",
+      "原告 げんこく plaintiff, accuser, prosecutor (n)"
+    ]
+  },
+  "参": {
+    "onyomi": "サン, シン",
+    "kunyomi": "まい.る, まい-, まじわる, みつ",
+    "english": "nonplussed, three, going, coming, visiting, visit, be defeated, die",
+    "example": [
+      "御参り おまいり worship, shrine visit (n, vs)",
+      "降参 こうさん giving in to (n, vs)",
+      "参る まいる to go, to come, to call, to visit (shrine, grave) (v5r)",
+      "参加 さんか participation (n, vs)",
+      "参議院 さんぎいん House of Councillors (n)"
+    ]
+  },
+  "反": {
+    "onyomi": "ハン, ホン, タン, ホ",
+    "kunyomi": "そ.る, そ.らす, かえ.す, かえ.る, -かえ.る",
+    "english": "anti-",
+    "example": [
+      "反する はんする to be inconsistent with, to oppose, to contradict (suru verb - special class)",
+      "反応 はんのう reaction, response (n, vs)",
+      "反感 はんかん antipathy, revolt, animosity (n)",
+      "反響 はんきょう echo, reverberation, repercussion, reaction, influence (n, vs)",
+      "反撃 はんげき counterattack, counteroffensive, counterblow (n, vs)"
+    ]
+  },
+  "取": {
+    "onyomi": "シュ",
+    "kunyomi": "と.る, と.り, と.り-, とり, -ど.り",
+    "english": "take, fetch, take up",
+    "example": [
+      "引取る ひきとる to take charge of, to take over, to retire to a private place (v5r, vt)",
+      "横取り よこどり usurpation, snatching, seizure (n, vs)",
+      "採取 さいしゅ picking, collecting, harvesting (n, vs)",
+      "搾取 さくしゅ exploitation, squeezing, sweating (n, vs)",
+      "取り扱う とりあつかう to treat, to handle, to deal in (v5s, vt)"
+    ]
+  },
+  "受": {
+    "onyomi": "ジュ",
+    "kunyomi": "う.ける, -う.け, う.かる",
+    "english": "accept, undergo, answer (phone), take, get, catch, receive",
+    "example": [
+      "感受性 かんじゅせい sensitivity (n)",
+      "受かる うかる to pass (examination) (v5r, intransitive verb)",
+      "受けつぐ うけつぐ to inherit, to succeed, to take over (v5g, vt)",
+      "受け止める うけとめる to catch, to stop the blow, to react to, to take (Ichidan verb, vt)",
+      "受け持つ うけもつ to take (be in) charge of (v5t, vt)"
+    ]
+  },
+  "史": {
+    "onyomi": "シ",
+    "kunyomi": "なし",
+    "english": "history, chronicle",
+    "example": [
+      "史上 しじょう historical (adj-no, n-adv, n-t)",
+      "歴史 れきし history (n)",
+      "歴史的 れきしてき historic, historical, traditional (adj-na)"
+    ]
+  },
+  "号": {
+    "onyomi": "ゴウ",
+    "kunyomi": "さけ.ぶ, よびな",
+    "english": "nickname, number, item, title, pseudonym, name, call",
+    "example": [
+      "記号 きごう symbol, code, sign (n, adj-no)",
+      "元号 げんごう era name (n)",
+      "号 ごう number, edition, make, model, issue, part of that group, sobriquet, pen-name (n, n-suf)",
+      "信号 しんごう traffic lights, signal, semaphore (n, vs)",
+      "年号 ねんごう name of an era, year number (n)"
+    ]
+  },
+  "司": {
+    "onyomi": "シ",
+    "kunyomi": "つかさど.る",
+    "english": "director, official, govt office, rule, administer",
+    "example": [
+      "司会 しかい chairmanship, leading a meeting (n, vs)",
+      "司法 しほう administration of justice (n)",
+      "上司 じょうし superior authorities, boss (n)"
+    ]
+  },
+  "各": {
+    "onyomi": "カク",
+    "kunyomi": "おのおの",
+    "english": "each, every, either",
+    "example": [
+      "各位 かくい everyone, ladies and gentlemen, attention media representatives (eg heading on a press release) (n)",
+      "各自 かくじ individual, each (n-adv, n-t)",
+      "各 おのおの each, every, either, respectively, severally (n-t)"
+    ]
+  },
+  "向": {
+    "onyomi": "コウ",
+    "kunyomi": "む.く, む.い, -む.き, む.ける, -む.け, む.かう, む.かい, む.こう, む.こう-, むこ, むか.い",
+    "english": "yonder, facing, beyond, confront, defy, tend toward, approach",
+    "example": [
+      "あお向け あおむけ face up (n)",
+      "傾向 けいこう tendency, trend, inclination (n, vs)",
+      "後向き うしろむき back facing, turning one's back to (n)",
+      "向き むき direction, orientation, aspect, situation, exposure, suitability, tendency (adj-na, n, n-suf)",
+      "向こう むこう opposite side, other side, opposite direction, over there, that way, far away, beyond, the other party, the other person, future (starting now) (n)"
+    ]
+  },
+  "君": {
+    "onyomi": "クン",
+    "kunyomi": "きみ, -ぎみ",
+    "english": "yonder, facing, beyond, confront, defy, tend toward, approach",
+    "example": ["諸君 しょくん Gentlemen!, Ladies! (n))"]
+  },
+  "告": {
+    "onyomi": "コク",
+    "kunyomi": "つ.げる",
+    "english": "revelation, tell, inform, announce",
+    "example": [
+      "警告 けいこく warning, advice (n, vs)",
+      "原告 げんこく plaintiff, accuser, prosecutor (n)",
+      "広告 こうこく advertisement (n, vs)",
+      "告げる つげる to inform (Ichidan verb, vt)",
+      "告訴 こくそ accusation, complaint (n, vs)"
+    ]
+  },
+  "周": {
+    "onyomi": "シュウ",
+    "kunyomi": "まわ.り",
+    "english": "circumference, circuit, lap",
+    "example": [
+      "周 ぐるり surroundings (n)",
+      "周囲 しゅうい surroundings, environs, circumference (n)",
+      "周期 しゅうき cycle, period (n)",
+      "周辺 しゅうへん circumference, outskirts, around, in the area of (n)"
+    ]
+  },
+  "命": {
+    "onyomi": "メイ, ミョウ",
+    "kunyomi": "いのち",
+    "english": "fate, command, decree, destiny, life, appoint",
+    "example": [
+      "一生けん命 いっしょうけんめい very hard, with utmost effort, with all one's might, for dear life (adj-na, n-adv, n)",
+      "運命 うんめい fate (n)",
+      "革命 かくめい revolution, 58th year of the sexagenary cycle (in onmyou-dou) (n)",
+      "使命 しめい mission, errand, message (n)",
+      "寿命 じゅみょう life span (n)"
+    ]
+  },
+  "和": {
+    "onyomi": "ワ, オ, カ",
+    "kunyomi": "やわ.らぐ, やわ.らげる, なご.む, なご.やか",
+    "english": "harmony, Japanese style, peace, soften, Japan",
+    "example": [
+      "英和 えいわ English-Japanese (eg dictionary) (n)",
+      "緩和 かんわ relief, mitigation (n, vs)",
+      "講和 こうわ peace, conclude peace (n, vs)",
+      "昭和 しょうわ Showa era (1926.12.25-1989.1.7) (n)",
+      "中和 ちゅうわ neutralize, neutralise, counteract (adj-na, n, vs)"
+    ]
+  },
+  "唱": {
+    "onyomi": "ショウ",
+    "kunyomi": "とな.える",
+    "english": "chant, recite, call upon, yell",
+    "example": [
+      "合唱 がっしょう chorus, singing in a chorus (n, vs)",
+      "首唱 しゅしょう advocacy, promotion (n, vs)"
+    ]
+  },
+  "商": {
+    "onyomi": "ショウ",
+    "kunyomi": "あきな.う",
+    "english": "make a deal, selling, dealing in, merchant",
+    "example": [
+      "商業 しょうぎょう commerce, trade, business (n)",
+      "商社 しょうしゃ trading company, firm (n)",
+      "商談 しょうだん business discussion, negotiation (n, vs)",
+      "商店 しょうてん shop, business firm (n)",
+      "商売 しょうばい trade, business, commerce, transaction, occupation (n, vs)"
+    ]
+  },
+  "喜": {
+    "onyomi": "キ",
+    "kunyomi": "よろこ.ぶ, よろこ.ばす",
+    "english": "rejoice, take pleasure in",
+    "example": [
+      "喜劇 きげき comedy, funny show (n)",
+      "大喜び おおよろこび great joy (adj-na, n)",
+      "喜ばす よろこばす to delight, to give pleasure (v5s)"
+    ]
+  },
+  "器": {
+    "onyomi": "キ",
+    "kunyomi": "うつわ",
+    "english": "utensil, vessel, receptacle, implement, instrument, ability, container, tool, set",
+    "example": [
+      "核兵器 かくへいき nuclear weapons (n)",
+      "楽器 がっき musical instrument (n)",
+      "器 うつわ bowl, vessel, container, ability, capacity, calibre, caliber (n)",
+      "器官 きかん organ (of body), instrument (n)",
+      "器具 きぐ utensil (n)"
+    ]
+  },
+  "囲": {
+    "onyomi": "イ",
+    "kunyomi": "かこ.む, かこ.う, かこ.い",
+    "english": "surround, besiege, store, paling, enclosure, encircle, preserve, keep",
+    "example": [
+      "囲い かこい enclosure, paling, storage (n)",
+      "囲う かこう to enclose (v5s, vt)",
+      "囲む かこむ to surround, to encircle (v5m, vt)",
+      "囲碁 いご Go (board game of capturing territory) (n)",
+      "周囲 しゅうい surroundings, environs, circumference (n)"
+    ]
+  },
+  "固": {
+    "onyomi": "コ",
+    "kunyomi": "かた.める, かた.まる, かた.まり, かた.い",
+    "english": "harden, set, clot, curdle",
+    "example": [
+      "頑固 がんこ stubbornness, obstinacy (adj-na, n)",
+      "固まる かたまる to harden, to solidify, to become firm, to become certain (v5r, intransitive verb)",
+      "固形 こけい solid (body) (n)",
+      "固体 こたい solid (body), solid matter, solid-state (n, adj-no)",
+      "固定 こてい fixation, fixing (eg salary, capital) (n, "
+    ]
+  },
+  "園": {
+    "onyomi": "エン",
+    "kunyomi": "その",
+    "english": "park, garden, yard, farm",
+    "example": [
+      "園芸 えんげい horticulture, gardening (n)",
+      "学園 がくえん academy, campus (n)",
+      "公園 こうえん (public) park (n)",
+      "植物園 しょくぶつえん botanical garden (n)",
+      "庭園 ていえん garden, park (n)"
+    ]
+  },
+  "坂": {
+    "onyomi": "ハン",
+    "kunyomi": "さか",
+    "english": "slope, incline, hill",
+    "example": ["なし"]
+  },
+  "型": {
+    "onyomi": "ケイ",
+    "kunyomi": "かた, -がた",
+    "english": "mould, type, model",
+    "example": [
+      "型 がた model, type (eg of machine, goods, etc.), type, style, pattern, mold (mould), template, model, kata (standard form of a movement, posture, etc) (n)",
+      "体型 たいけい figure (body) (n)",
+      "典型 てんけい type, pattern, archetypal (n, adj-no)",
+      "典型的 てんけいてき typical, prototypical, representative, stereotypical, model, ideal (adj-na)",
+      "模型 もけい model, dummy, maquette (n)"
+    ]
+  },
+  "塩": {
+    "onyomi": "エン",
+    "kunyomi": "しお",
+    "english": "salt",
+    "example": [
+      "塩分 えんぶん salt, salt content (n)",
+      "塩 えん salt (n)",
+      "塩水 えんすい salt water, brine (n)",
+      "塩辛い しおからい salty (taste) (adj)"
+    ]
+  },
+  "士": {
+    "onyomi": "シ",
+    "kunyomi": "なし",
+    "english": "gentleman, samurai, samurai radical (no. 33)",
+    "example": [
+      "修士 しゅうし Masters degree program (programme) (n)",
+      "紳士 しんし gentleman (n)",
+      "代議士 だいぎし parliamentarian, member of a congress (n)",
+      "同士 どうし fellow, companion, comrade, mutual (n)",
+      "博士 はくし doctorate, PhD, Dr (as a title), expert, learned person (n, n-suf, n)"
+    ]
+  },
+  "変": {
+    "onyomi": "ヘン",
+    "kunyomi": "か.わる, か.わり, か.える",
+    "english": "unusual, change, strange",
+    "example": [
+      "急変 きゅうへん sudden turn, sudden change, (suddenly occurring) accident (n, vs)",
+      "相変らず あいかわらず as ever, as usual, the same (adv, n)",
+      "大変 たいへん very, greatly, immense, enormous, great, serious, grave, dreadful, terrible, difficult, hard, major incident, disaster (adv, adj-na, n)",
+      "不変 ふへん eternal, everlasting, unchangeable, immutable, immovable, constant, permanent, indestructible (adj-na, n, adj-no)",
+      "変 へん strange, odd, peculiar, weird, curious, queer, eccentric, funny, suspicious, fishy, unexpected, change, incident, disturbance, disaster, accident, flat (music) (adj-na, n, n-pref)"
+    ]
+  },
+  "夫": {
+    "onyomi": "フ, フウ, ブ",
+    "kunyomi": "おっと, そ.れ",
+    "english": "husband, man",
+    "example": [
+      "功夫 くふう device, scheme, devising, scheming, dedication to spiritual improvement (esp. through Zen meditation) (n, vs)",
+      "大丈夫 だいじょうぶ safe, all right, OK (adj-na, adv, n)",
+      "夫 おっと husband (n)",
+      "夫妻 ふさい man and wife, married couple (n)",
+      "夫人 はしかし wife, Mrs, madam, wife of a nobleman (aristocrat, etc.), consort of the emperor (n, n, n)"
+    ]
+  },
+  "央": {
+    "onyomi": "オウ",
+    "kunyomi": "なし",
+    "english": "center, middle",
+    "example": ["中央 ちゅうおう centre, central, center, middle (n)"]
+  },
+  "失": {
+    "onyomi": "シツ",
+    "kunyomi": "うしな.う, う.せる",
+    "english": "lose, error, fault, disadvantage, loss",
+    "example": [
+      "過失 かしつ error, blunder, accident, fault, defect (n)",
+      "見失う みうしなう to lose sight of, to miss (v5s, vt)",
+      "失格 しっかく disqualification, elimination, incapacity (legal) (n, vs)",
+      "失業 しつぎょう unemployment (n, vs)",
+      "失敬 しっけい rudeness, saying good-bye, acting impolitely, stealing, impoliteness, disrespect, impertinence (adj-na, interjection (kandoushi), n, vs)"
+    ]
+  },
+  "委": {
+    "onyomi": "イ",
+    "kunyomi": "ゆだ.ねる",
+    "english": "committee, entrust to, leave to, devote, discard",
+    "example": [
+      "委員 いいん committee member (n)",
+      "委員会 いいんかい committee meeting, committee (n)",
+      "委任 いにん charge, trust (n, vs)",
+      "委しい くわしい knowing very well, detailed, full, accurate (adj)"
+    ]
+  },
+  "季": {
+    "onyomi": "キ",
+    "kunyomi": "なし",
+    "english": "seasons",
+    "example": [
+      "季語 きご seasonal word (in haiku) (n)",
+      "季節 きせつ season (n)",
+      "四季 しき four seasons (n)",
+      "冬季 とうき (season of) winter (n-adv, n-t)",
+      "雨季 うき rainy season (n)"
+    ]
+  },
+  "孫": {
+    "onyomi": "ソン",
+    "kunyomi": "まご",
+    "english": "grandchild, descendants",
+    "example": [
+      "子孫 しそん descendants, posterity, offspring (n)",
+      "孫 まご grandchild (n)"
+    ]
+  },
+  "守": {
+    "onyomi": "シュ, ス",
+    "kunyomi": "まも.る, まも.り, もり, -もり, かみ",
+    "english": "guard, protect, defend, obey",
+    "example": [
+      "御守 おまもり charm, amulet (n)",
+      "見守る みまもる to watch over, to watch attentively (v5r, vt)",
+      "厳守 げんしゅ strict observance (n, vs)",
+      "守衛 しゅえい security guard, doorkeeper (n)",
+      "守備 しゅび defense, defence (n, vs)"
+    ]
+  },
+  "完": {
+    "onyomi": "カン",
+    "kunyomi": "なし",
+    "english": "perfect, completion, end",
+    "example": [
+      "完成 かんせい complete, completion, perfection, accomplishment (n, vs)",
+      "完全 かんぜん perfection, completeness (adj-na, n)",
+      "完了 かんりょう completion, conclusion, perfective (form, aspect) (n, vs, n)",
+      "不完全 ふかんぜん imperfect, incomplete, faulty, defective (adj-na, n)",
+      "完壁 かんべき perfect, complete, flawless (adj-na)"
+    ]
+  },
+  "官": {
+    "onyomi": "カン",
+    "kunyomi": "なし",
+    "english": "bureaucrat, the government",
+    "example": [
+      "官庁 かんちょう government office, authorities (n)",
+      "官邸 かんてい official residence (n)",
+      "官僚 かんりょう bureaucrat, bureaucracy (n)",
+      "器官 きかん organ (of body), instrument (n)",
+      "警官 けいかん policeman (n)"
+    ]
+  },
+  "定": {
+    "onyomi": "テイ, ジョウ",
+    "kunyomi": "さだ.める, さだ.まる, さだ.か",
+    "english": "determine, fix, establish, decide",
+    "example": [
+      "安定 あんてい stability, equilibrium (adj-na, n, vs)",
+      "案の定 あんのじょう just as one thought, as usual (adv, exp)",
+      "一定 いちじょう fixed, settled, constant, definite, uniform, regularized, regularised, defined, standardized (n, adj-no, vs)",
+      "仮定 かてい assumption, supposition, hypothesis (n, vs)",
+      "確定 かくてい decision, settlement, definition (n, vs)"
+    ]
+  },
+  "実": {
+    "onyomi": "ジツ, シツ",
+    "kunyomi": "み, みの.る, まこと, まことに, みの, みち.る",
+    "english": "reality, truth",
+    "example": [
+      "忠実 ちゅうじつ faithful, loyal, devoted, hardworking, painstaking, diligent, healthy, fit (adj-na, adj-na, adj-na)",
+      "果実 かじつ fruit, nut, berry (n)",
+      "確実 かくじつ certainty, reliability, soundness (adj-na, n)",
+      "現実 げんじつ reality (n)",
+      "口実 こうじつ excuse, pretext (n)"
+    ]
+  },
+  "客": {
+    "onyomi": "キャク, カク",
+    "kunyomi": "なし",
+    "english": "guest, visitor, customer, client",
+    "example": [
+      "観客 かんきゃく audience, spectator(s) (n)",
+      "客 きゃく guest, customer (n)",
+      "客観 かくかん object (as opposed to subject) (n, adj-no)",
+      "客観的 きゃっかんてき objective (adj-na)",
+      "客室 きゃくしつ drawing room, guest room (n)"
+    ]
+  },
+  "宮": {
+    "onyomi": "キュウ, グウ, ク, クウ",
+    "kunyomi": "みや",
+    "english": "Shinto shrine, constellations, palace, princess",
+    "example": [
+      "観客 かんきゃく audience, spectator(s) (n)",
+      "客 きゃく guest, customer (n)",
+      "客観 かくかん object (as opposed to subject) (n, adj-no)",
+      "客観的 きゃっかんてき objective (adj-na)",
+      "客室 きゃくしつ drawing room, guest room (n)"
+    ]
+  },
+  "害": {
+    "onyomi": "ガイ",
+    "kunyomi": "なし",
+    "english": "harm, injury",
+    "example": [
+      "加害者 かがいしゃ assailant (n)",
+      "害 がい injury, harm, evil influence, damage (n)",
+      "害虫 がいちゅう harmful insect, noxious insect (n)",
+      "公害 こうがい pollution, public nuisance, contamination (n)",
+      "災害 さいがい calamity, disaster, misfortune (n)"
+    ]
+  },
+  "宿": {
+    "onyomi": "シュク",
+    "kunyomi": "やど, やど.る, やど.す",
+    "english": "inn, lodging, dwell, lodge, be pregnant, home, dwelling",
+    "example": [
+      "下宿 げしゅく boarding, lodging, boarding house (n, vs)",
+      "合宿 がっしゅく lodging together, boarding house (n, vs)",
+      "宿 やど inn, lodging (n)",
+      "宿屋 やどや inn (n)",
+      "宿題 しゅくだい homework (n)"
+    ]
+  },
+  "察": {
+    "onyomi": "サツ",
+    "kunyomi": "やど, やど.る, やど.す",
+    "english": "guess, presume, surmise, judge, understand",
+    "example": [
+      "観察 かんさつ observation, survey (n, vs)",
+      "警察 けいさつ police (n)",
+      "検察 けんさつ examination, prosecutor (n, vs)",
+      "察する さっする to guess, to sense, to presume, to judge, to sympathise with (suru verb - special class)",
+      "視察 しさつ inspection, observation (n, vs)"
+    ]
+  },
+  "寺": {
+    "onyomi": "ジ",
+    "kunyomi": "てら",
+    "english": "Buddhist temple",
+    "example": ["寺 てら temple (Buddhist) (n)", "寺院 じいん temple (n)"]
+  },
+  "対": {
+    "onyomi": "タイ, ツイ",
+    "kunyomi": "あいて, こた.える, そろ.い, つれあ.い, なら.ぶ, むか.う",
+    "english": "vis-a-vis, opposite, even, equal, versus, anti-, compare",
+    "example": [
+      "応対 おうたい receiving, dealing with (n, vs)",
+      "絶対 ぜったい absoluteness, absolute, unconditional, unmistakable (n, adj-no)",
+      "相対的 そうたいてき relative (adj-na)",
+      "対応 たいおう interaction, correspondence, coping with, dealing with, support (n, vs)",
+      "対決 たいけつ confrontation, showdown (n, vs)"
+    ]
+  },
+  "局": {
+    "onyomi": "キョク",
+    "kunyomi": "つぼね",
+    "english": "bureau, board, office, affair, conclusion, court lady, lady-in-waiting, her apartment",
+    "example": [
+      "局 きょく channel (ie TV or radio), station, department, affair, situation (n, n-suf)",
+      "結局 けっきょく after all, eventually (n-adv, n)",
+      "支局 しきょく branch office (n)",
+      "政局 せいきょく political situation (n)",
+      "当局 とうきょく authorities, this office (n)"
+    ]
+  },
+  "岩": {
+    "onyomi": "ガン",
+    "kunyomi": "いわ",
+    "english": "boulder, rock, cliff",
+    "example": ["なし"]
+  },
+  "岸": {
+    "onyomi": "ガン",
+    "kunyomi": "きし",
+    "english": "beach",
+    "example": [
+      "沿岸 えんがん coast, shore (n)",
+      "海岸 かいがん coast, beach (n)",
+      "岸 きし bank, coast, shore (n)",
+      "岸辺 きしべ bank (of a river) (n)",
+      "河岸 かし river bank, riverside, fish market (n)"
+    ]
+  },
+  "島": {
+    "onyomi": "トウ",
+    "kunyomi": "しま",
+    "english": "island",
+    "example": [
+      "半島 はんとう peninsula (n)",
+      "列島 れっとう archipelago, chain of islands (n)"
+    ]
+  },
+  "州": {
+    "onyomi": "シュウ, ス",
+    "kunyomi": "す",
+    "english": "state, province",
+    "example": ["なし"]
+  },
+  "巣": {
+    "onyomi": "ソウ",
+    "kunyomi": "す, す.くう",
+    "english": "nest, rookery, hive, cobweb, den",
+    "example": ["なし"]
+  },
+  "差": {
+    "onyomi": "サ",
+    "kunyomi": "さ.す, さ.し",
+    "english": "distinction, difference, variation, discrepancy, margin, balance",
+    "example": [
+      "格差 かくさ qualitative difference, disparity (n)",
+      "誤差 ごさ measurement error, calculation error (n)",
+      "差 さ difference, variation (n, n-suf)",
+      "差し引き さしひき deduction, subtraction, balance, ebb and flow, rise and fall (n)",
+      "差し掛かる さしかかる to come near to, to approach (v5r)"
+    ]
+  },
+  "希": {
+    "onyomi": "キ, ケ",
+    "kunyomi": "まれ",
+    "english": "hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal",
+    "example": ["希 まれ rare, seldom (adj-na)"]
+  },
+  "席": {
+    "onyomi": "セキ",
+    "kunyomi": "むしろ",
+    "english": "seat, mat, occasion, place",
+    "example": [
+      "客席 きゃくせき guest seating (n)",
+      "欠席 けっせき absence, non-attendance (n, vs)",
+      "座席 ざせき seat (n)",
+      "出席 しゅっせき attendance, presence (n, vs)",
+      "席 せき seat (n)"
+    ]
+  },
+  "帯": {
+    "onyomi": "タイ",
+    "kunyomi": "お.びる, おび",
+    "english": "sash, belt, obi, zone, region",
+    "example": [
+      "一帯 いったい region, zone, whole place (n)",
+      "温帯 おんたい temperate zone (n)",
+      "携帯 ケータイ something carried (in the hand), handheld, mobile telephone, cell phone (n, vs, n)",
+      "所帯 しょたい household, home, family, housekeeping (n)",
+      "地帯 ちたい area, zone (n)"
+    ]
+  }
+}

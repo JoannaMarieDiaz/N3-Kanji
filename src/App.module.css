@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  background-color: rgb(100, 146, 187);
+}
+
+.Card {
+  position: relative;
+  height: 200px;
+  width: 200px;
+}
+
+.Link {
+  text-decoration: none;
+  color: white;
+}
+
+.Link:hover,
+.Link:active {
+  color: rgb(240, 255, 23);
+  cursor: pointer;
+}
