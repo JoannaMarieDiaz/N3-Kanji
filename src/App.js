@@ -29,8 +29,7 @@ class App extends Component {
     const kanjis = [];
     const allKanjiValue = [];
     Object.entries(myData).map(([keys, values]) => {
-      kanjis.push(keys);
-      allKanjiValue.push(values);
+      return kanjis.push(keys), allKanjiValue.push(values);
     });
 
     let on = [];
@@ -39,10 +38,12 @@ class App extends Component {
     let ex = [];
     // getting all data values
     Object.values(allKanjiValue).map((values) => {
-      on.push(values.onyomi);
-      kun.push(values.kunyomi);
-      eng.push(values.english);
-      ex.push(values.example);
+      return (
+        on.push(values.onyomi),
+        kun.push(values.kunyomi),
+        eng.push(values.english),
+        ex.push(values.example)
+      );
     });
 
     this.setState({

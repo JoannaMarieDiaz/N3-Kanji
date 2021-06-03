@@ -14,7 +14,6 @@ const Form = (props) => {
   const [score, setScore] = useState(0);
   const [showModal, setShowModal] = useState(false);
   const { next } = props;
-  console.log(next);
 
   // A fucntion handler after submitting form
   const formHandler = (e) => {
@@ -52,12 +51,10 @@ const Form = (props) => {
         : arrayOfNewChoice.push(all);
     });
 
-    console.log(props.correctAnswer);
     // mixed rand choice value and correct answer
     const randChoices = _.sampleSize(arrayOfNewChoice, 3);
 
     const arrayOfChoices = randChoices.concat(props.correctAnswer);
-    console.log(arrayOfChoices);
 
     // Set variable values
     setChoices(_.shuffle(arrayOfChoices));
