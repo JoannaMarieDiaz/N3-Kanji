@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import classes from './ResultBox.module.css';
 
 const resultBox = (props) => {
-  console.log(props);
   let textEvent = {};
   if (props.result === true) {
     textEvent = {

@@ -29,6 +29,7 @@ class App extends Component {
     const kanjis = [];
     const allKanjiValue = [];
     Object.entries(myData).map(([keys, values]) => {
+      // eslint-disable-next-line
       return kanjis.push(keys), allKanjiValue.push(values);
     });
 
@@ -64,7 +65,7 @@ class App extends Component {
     const keysOfQuestions = Object.keys(myData[this.state.kanji]).filter(
       (key) => key !== 'example'
     );
-    console.log(keysOfQuestions);
+
     const keyRandNumber = Math.floor(Math.random() * keysOfQuestions.length);
     const passQuestionKey = keysOfQuestions[keyRandNumber];
 

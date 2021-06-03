@@ -58,10 +58,10 @@ const Form = (props) => {
 
     // Set variable values
     setChoices(_.shuffle(arrayOfChoices));
+    // eslint-disable-next-line
   }, [next]);
 
   const modalHandler = () => {
-    console.log('clicked!');
     setShowModal(!showModal);
   };
 
