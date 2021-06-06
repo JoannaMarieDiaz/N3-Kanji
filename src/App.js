@@ -10,21 +10,19 @@ class App extends Component {
   state = {
     next: false,
     keys: [],
-    kanji: '丁',
-    onyomi: 'チョウ, テイ, チン, トウ, チ',
-    kunyomi: 'ひのと',
-    english: 'street, ward, town',
-    example: [
-      '丁目 ちょうめ district of a town, city block',
-      '庖丁 ほうちょう kitchen knife, carving knife',
-    ],
-    correctAnswer: 'チョウ, テイ, チン, トウ, チ',
+    kanji: '',
+    onyomi: '',
+    kunyomi: '',
+    english: '',
+    example: [],
+    correctAnswer: '',
     show: true,
-    question: 'What is the onyomi reading for this kanji?',
-    questionKey: 'onyomi',
+    question: '',
+    questionKey: '',
+    htmlForm: '',
   };
 
-  setHandler = () => {
+  componentDidMount() {
     // To set keys ans kanjis on an array
     const kanjis = [];
     const allKanjiValue = [];
@@ -32,6 +30,7 @@ class App extends Component {
       // eslint-disable-next-line
       return kanjis.push(keys), allKanjiValue.push(values);
     });
+    const rand = Math.floor(Math.random() * kanjis.length);
 
     let on = [];
     let kun = [];
@@ -54,10 +53,12 @@ class App extends Component {
       keys: [...kanjis],
       correctAnswer: 'チョウ, テイ, チン, トウ, チ',
       next: !this.state.next,
+      kanji: kanjis[rand],
     });
-  };
+  }
 
   nextHandler = () => {
+    console.log(this.state);
     // for one kanji that will be display
     const rand = Math.floor(Math.random() * this.state.keys.length);
 
@@ -82,9 +83,6 @@ class App extends Component {
     // new objects on correct answers without example
     const correctAnswers = myData[kanjiKey];
     const { example, ...newCorrect } = correctAnswers;
-    // console.log(this.state.kanji);
-    // console.log(correctAnswers);
-    // console.log(example);
 
     this.setState({
       kanji: kanjiKey,
@@ -92,31 +90,17 @@ class App extends Component {
       questionKey: passQuestionKey,
       example: example,
       next: !this.state.next,
+      show: false,
     });
+    console.log('nexthandler');
+    this.formHandler();
   };
 
-  closeModalHandler = () => {
-    this.setState({ show: false });
-    this.setHandler();
-  };
-
-  render() {
-    // console.log(this.state);
-    return (
-      <div className="container m-3">
-        <Modal clicked={this.closeModalHandler} show={this.state.show}>
-          <h3>Anki Kanji App</h3>
-          <h3 className="m-4">Choose the correct answer!</h3>
-          <button
-            className="btn btn-success m-2"
-            onClick={this.closeModalHandler}
-          >
-            Click to start
-          </button>
-        </Modal>
-
-        <div>
-          <Kanji kanjiRand={this.state.kanji} examples={this.state.example} />
+  formHandler = async () => {
+    const result = await new Promise((resolve) =>
+      setTimeout(() => {
+        console.log(this.state.question);
+        resolve(
           <Form
             onyomi={this.state.onyomi}
             kunyomi={this.state.kunyomi}
@@ -128,7 +112,38 @@ class App extends Component {
             questionKey={this.state.questionKey}
             next={this.state.next}
           />
+        );
+      })
+    );
+    this.setState({ htmlForm: result });
+  };
+
+  closeModalHandler = () => {
+    this.setState({
+      show: false,
+    });
+    this.nextHandler();
+  };
+
+  render() {
+    console.log('render');
+    console.log(this.state);
+    return (
+      <div className="container m-3">
+        <Modal clicked={this.closeModalHandler} show={this.state.show}>
+          <h3>Anki Kanji App</h3>
+          <h3 className="m-4">Choose the correct answer!</h3>
+          <button className="btn btn-success m-2" onClick={this.nextHandler}>
+            Click to start
+          </button>
+        </Modal>
+
+        <div>
+          <Kanji kanjiRand={this.state.kanji} examples={this.state.example} />
         </div>
+        <div>{this.state.htmlForm}</div>
+
+        {console.log('inside return')}
       </div>
     );
   }

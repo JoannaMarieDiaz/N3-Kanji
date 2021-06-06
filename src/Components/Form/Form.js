@@ -8,6 +8,7 @@ import InputHandler from '../InputHandler/InputHandler';
 import Modal from '../Modal/Modal';
 
 const Form = (props) => {
+  console.log(props);
   const [choices, setChoices] = useState([]);
   const [chooseAnswer, setChooseAnswer] = useState('');
   const [isCorrect, setIsCorrect] = useState(false);
