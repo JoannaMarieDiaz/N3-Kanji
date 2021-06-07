@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  background-color: rgb(100, 146, 187);
 }
 
 .Card {
@@ -18,4 +17,11 @@
 .Link:active {
   color: rgb(240, 255, 23);
   cursor: pointer;
+}
+
+@media screen and (max-width: 500px) {
+  .card {
+    height: 150px;
+    width: 150px;
+  }
 }

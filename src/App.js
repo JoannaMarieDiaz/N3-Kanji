@@ -5,7 +5,6 @@ import Kanji from './Components/Kanji/Kanji';
 import Form from './Components/Form/Form';
 import myData from './data.json';
 import Modal from './Components/Modal/Modal';
-import { Route, Switch } from 'react-router-dom';
 
 class App extends Component {
   state = {
@@ -59,7 +58,6 @@ class App extends Component {
   }
 
   nextHandler = () => {
-    console.log(this.state);
     // for one kanji that will be display
     const rand = Math.floor(Math.random() * this.state.keys.length);
 
@@ -93,14 +91,12 @@ class App extends Component {
       next: !this.state.next,
       show: false,
     });
-    console.log('nexthandler');
     this.formHandler();
   };
 
   formHandler = async () => {
     const result = await new Promise((resolve) =>
       setTimeout(() => {
-        console.log(this.state.question);
         resolve(
           <Form
             onyomi={this.state.onyomi}
@@ -127,28 +123,22 @@ class App extends Component {
   };
 
   render() {
-    console.log('render');
-    console.log(this.state);
     return (
-      <>
-        <div className="container m-3">
-          <Modal clicked={this.closeModalHandler} show={this.state.show}>
-            <h3>Anki Kanji App</h3>
-            <h3 className="m-4">Choose the correct answer!</h3>
-            <button className="btn btn-success m-2" onClick={this.nextHandler}>
-              Click to start
-            </button>
-          </Modal>
+      <div className="container m-3">
+        <Modal clicked={this.closeModalHandler} show={this.state.show}>
+          <h3>Anki Kanji App</h3>
+          <h3 className="m-4">Choose the correct answer!</h3>
+          <button className="btn btn-success m-2" onClick={this.nextHandler}>
+            Click to start
+          </button>
+        </Modal>
 
-          <div>
-            <Kanji kanjiRand={this.state.kanji} examples={this.state.example} />
-          </div>
-          <Route path="/">
-            <div>{this.state.htmlForm}</div>
-          </Route>
-          {console.log('inside return')}
+        <div>
+          <Kanji kanjiRand={this.state.kanji} examples={this.state.example} />
         </div>
-      </>
+
+        <div>{this.state.htmlForm}</div>
+      </div>
     );
   }
 }

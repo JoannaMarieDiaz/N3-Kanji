@@ -1163,5 +1163,126 @@
       "所帯 しょたい household, home, family, housekeeping (n)",
       "地帯 ちたい area, zone (n)"
     ]
+  },
+  "帳": {
+    "onyomi": "チョウ",
+    "kunyomi": "とばり",
+    "english": "notebook, account book, album",
+    "example": ["通帳 つうちょう passbook, bankbook (n)"]
+  },
+  "平": {
+    "onyomi": "ヘイ, ビョウ, ヒョウ",
+    "kunyomi": "たい.ら, -だいら, ひら, ひら-",
+    "english": "even, flat, peace",
+    "example": [
+      "公平 こうへい fairness, impartial, justice (adj-na, n)",
+      "水平 すいへい level, horizontality (adj-na, adj-no)",
+      "水平線 すいへいせん horizon (related to sea or lakes) (n)",
+      "地平線 ちへいせん horizon (related to land) (n)",
+      "不公平 ふこうへい unfairness, injustice, partiality (adj-na, n)"
+    ]
+  },
+  "幸": {
+    "onyomi": "コウ",
+    "kunyomi": "さいわ.い, さち, しあわ.せ",
+    "english": "happiness, blessing, fortune",
+    "example": [
+      "幸い さいわい happiness, blessedness (adj-na, adv, n)",
+      "幸福 こうふく happiness, blessedness (adj-na, n)",
+      "不幸 ふこう unhappiness, sorrow, misfortune, disaster, accident, death (adj-na, n)"
+    ]
+  },
+  "底": {
+    "onyomi": "テイ",
+    "kunyomi": "そこ",
+    "english": "bottom, sole, depth, bottom price, base, kind, sort",
+    "example": [
+      "海底 かいてい bottom of the ocean (n)",
+      "底 そこ bottom, sole (n)",
+      "徹底 てってい thoroughness, completeness (n, vs)",
+      "到底 とうてい (cannot) possibly (adv)"
+    ]
+  },
+  "府": {
+    "onyomi": "フ",
+    "kunyomi": "なし",
+    "english": "borough, urban prefecture, govt office, representative body, storehouse",
+    "example": [
+      "政府 せいふ government, administration (n)",
+      "府庁 ふちょう prefectural office (n)",
+      "府立 ふりつ managed by an urban prefecture (adj-no, n)"
+    ]
+  },
+  "庫": {
+    "onyomi": "コ, ク",
+    "kunyomi": "くら",
+    "english": "warehouse, storehouse",
+    "example": [
+      "金庫 かねぐら safe, vault, treasury, provider of funds (n)",
+      "車庫 しゃこ garage, car shed, carport (n)",
+      "倉庫 そうこ storehouse, warehouse, godown (n)",
+      "文庫 ぶんこ library, book collection, paperback book (n)",
+      "冷蔵庫 れいぞうこ refrigerator (n)"
+    ]
+  },
+  "庭": {
+    "onyomi": "テイ",
+    "kunyomi": "にわ",
+    "english": "courtyard, garden, yard",
+    "example": [
+      "家庭 かてい home, family, household (n)",
+      "校庭 こうてい schoolyard, campus (n)",
+      "市庭 いちば (town) market, (the) marketplace (n)",
+      "中庭 なかにわ courtyard, quadrangle, middle court (n)",
+      "庭 にわ garden (n)"
+    ]
+  },
+  "康": {
+    "onyomi": "コウ",
+    "kunyomi": "なし",
+    "english": "ease, peace",
+    "example": ["健康 けんこう health, sound, wholesome (adj-na, n)"]
+  },
+  "式": {
+    "onyomi": "シキ",
+    "kunyomi": "なし",
+    "english": "style, ceremony, rite, function, method, system, form, expression",
+    "example": [
+      "株式 かぶしき stock (company) (n)",
+      "儀式 ぎしき ceremony, rite, ritual, service (n)",
+      "旧式 きゅうしき old type, old style (adj-na, adj-no)",
+      "形式 けいしき form, formality, format, appearance, mode, math expression (n)",
+      "形式的 けいしきてき formal (adj-na)"
+    ]
+  },
+  "弓": {
+    "onyomi": "キュウ",
+    "kunyomi": "ゆみ",
+    "english": "bow, bow (archery, violin)",
+    "example": ["弓 ゆみ bow (and arrow) (n)"]
+  },
+  "当": {
+    "onyomi": "トウ",
+    "kunyomi": "あ.たる, あ.たり, あ.てる, あ.て, まさ.に, まさ.にべし",
+    "english": "hit, right, appropriate, himself",
+    "example": [
+      "該当 がいとう corresponding, answering to, coming under, applying to (n, vs)",
+      "割当てる わりあてる to assign, to allot, to allocate, to divide among, to distribute, to prorate (Ichidan verb, vt)",
+      "見当 けんとう aim, mark, estimate, guess, approximation, direction (n)",
+      "心当たり こころあたり having some knowledge of, happening to know (n)",
+      "正当 せいとう just, justifiable, right, due, proper, equitable, reasonable, legitimate, legal, lawful (adj-na, n)"
+    ]
+  },
+  "形": {
+    "onyomi": "ケイ, ギョウ",
+    "kunyomi": "かた, -がた, かたち, なり",
+    "english": "shape, form, style",
+    "example": [
+      "形見 かたみ memento, souvenir (n)",
+      "形式 けいしき form, formality, format, appearance, mode, math expression (n)",
+      "形式的 けいしきてき formal (adj-na)",
+      "形成 けいせい formation, molding, taking form (n, vs)",
+      "形容詞 けいようし (true) adjective, i-adjective (n)"
+    ]
   }
 }

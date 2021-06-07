@@ -26,10 +26,14 @@ const Kanji = (props) => {
         <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
           <div
             style={{
-              width: '12rem',
-              height: '12rem',
+              width: '10rem',
+              height: '10rem',
               border: '1px solid black',
-              fontSize: '8em',
+              fontSize: '7em',
+              maxWidth: '12rem',
+              alignItems: 'center',
+              display: 'flex',
+              justifyContent: 'center',
             }}
             className="card text-center"
           >
@@ -39,10 +43,11 @@ const Kanji = (props) => {
           <div
             className="card"
             style={{
-              width: '12rem',
-              height: '12rem',
+              width: '10rem',
+              height: '10rem',
               border: '1px solid black',
-              fontSize: '8rem',
+              fontSize: '5rem',
+              overflow: 'hidden',
             }}
           >
             <ul>{liHandler}</ul>

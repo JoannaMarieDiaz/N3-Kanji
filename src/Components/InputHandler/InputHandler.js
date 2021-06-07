@@ -13,7 +13,7 @@ const inputHandler = (props) => {
         onChange={props.changed}
       />
       <label htmlFor={i}>
-        <p className="m-1" style={{ fontSize: '1.8vw' }}>
+        <p className="m-1" style={{ fontSize: '0.9rem' }}>
           {keys.substr(0, 40)}
         </p>
       </label>

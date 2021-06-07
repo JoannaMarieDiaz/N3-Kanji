@@ -90,14 +90,14 @@ const Form = (props) => {
           <form>
             <Switch>
               <Route path="/" exact>
-                <h4 style={{ fontSize: '2vw' }}>{props.question}</h4>
+                <h4 style={{ fontSize: '1rem' }}>{props.question}</h4>
                 <InputHandler
                   questionKey={props.questionKey}
                   choices={choices}
                   changed={getInputRadioHandler}
                 />
                 <button
-                  style={{ width: '18vw' }}
+                  style={{ width: '8rem' }}
                   type="submit"
                   className="btn btn-success m-2"
                   onClick={formHandler}
