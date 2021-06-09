@@ -108,6 +108,7 @@ class App extends Component {
             onClickedNext={this.nextHandler}
             questionKey={this.state.questionKey}
             next={this.state.next}
+            show={this.state.show}
           />
         );
       })

@@ -113,6 +113,7 @@ const Form = (props) => {
                   result={isCorrect}
                   clear={clearInputHandler}
                   next={props.onClickedNext}
+                  show={props.show}
                 />
               </Route>
             </Switch>
