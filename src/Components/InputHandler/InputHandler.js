@@ -1,4 +1,7 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.css';
+import classes from '../Form/Form.module.css';
 
 const inputHandler = (props) => {
   const inputs = props.choices.map((keys, i) => (
@@ -20,7 +23,22 @@ const inputHandler = (props) => {
     </div>
   ));
 
-  return <React.Fragment>{inputs}</React.Fragment>;
+  return (
+    <React.Fragment>
+      {inputs}{' '}
+      <button
+        style={{ width: '8rem' }}
+        type="submit"
+        className="btn btn-success m-2"
+        onClick={props.formHandler}
+      >
+        <Link className={classes.Link} to="/resultBox">
+          {' '}
+          Submit answer
+        </Link>
+      </button>
+    </React.Fragment>
+  );
 };
 
 export default inputHandler;

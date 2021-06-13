@@ -20,14 +20,14 @@ const resultBox = (props) => {
     };
   }
   return (
-    <React.Fragment>
+    <div className="resultBoxDiv">
       <h3>{textEvent.h3Text}</h3>
       <button onClick={textEvent.btnEvent} className={textEvent.class}>
         <Link className={classes.Link} to={'/inputHandler'}>
           {textEvent.btnText}
         </Link>
       </button>
-    </React.Fragment>
+    </div>
   );
 };
 

@@ -5,7 +5,7 @@ import Kanji from './Components/Kanji/Kanji';
 import Form from './Components/Form/Form';
 import myData from './data.json';
 import Modal from './Components/Modal/Modal';
-import { Link } from 'react-router-dom';
+import { Link, Route } from 'react-router-dom';
 
 class App extends Component {
   state = {
@@ -59,7 +59,8 @@ class App extends Component {
     });
   }
 
-  nextHandler = () => {
+  nextHandler = (e) => {
+    e.preventDefault();
     // render data after modal
     // for one kanji that will be display
     const rand = Math.floor(Math.random() * this.state.keys.length);
@@ -129,18 +130,20 @@ class App extends Component {
   render() {
     return (
       <div className="container m-3">
-        <Modal clicked={this.closeModalHandler} show={this.state.show}>
-          <h3>Anki Kanji App</h3>
-          <h3 className="m-4">Choose the correct answer!</h3>
-          <button className="btn btn-success m-2" onClick={this.nextHandler}>
-            <Link
-              style={{ color: 'white', textDecoration: 'none' }}
-              to="/inputHandler"
-            >
-              Click to start
-            </Link>
-          </button>
-        </Modal>
+        <Route path="/">
+          <Modal clicked={this.closeModalHandler} show={this.state.show}>
+            <h3>Anki Kanji App</h3>
+            <h3 className="m-4">Choose the correct answer!</h3>
+            <button className="btn btn-success m-2" onClick={this.nextHandler}>
+              <Link
+                style={{ color: 'white', textDecoration: 'none' }}
+                to="/inputHandler"
+              >
+                Click to start
+              </Link>
+            </button>
+          </Modal>
+        </Route>
 
         <div>
           <Kanji kanjiRand={this.state.kanji} examples={this.state.example} />

@@ -28,7 +28,8 @@ const Form = (props) => {
   };
 
   // Clear input fields
-  const clearInputHandler = () => {
+  const clearInputHandler = (e) => {
+    e.preventDefault();
     Array.from(document.querySelectorAll('.radioInput')).forEach(
       (input) => (input.value = '')
     );
@@ -65,7 +66,7 @@ const Form = (props) => {
     setShowModal(!showModal);
   };
 
-  const restarHandler = () => {
+  const restartHandler = () => {
     setShowModal(!showModal);
     setScore(0);
     document.querySelector('#score').textContent = 0;
@@ -75,6 +76,7 @@ const Form = (props) => {
   return (
     <React.Fragment>
       <div
+        className="form"
         style={{
           marginLeft: '10%',
           top: '5%',
@@ -95,18 +97,8 @@ const Form = (props) => {
                   questionKey={props.questionKey}
                   choices={choices}
                   changed={getInputRadioHandler}
+                  formHandler={formHandler}
                 />
-                <button
-                  style={{ width: '8rem' }}
-                  type="submit"
-                  className="btn btn-success m-2"
-                  onClick={formHandler}
-                >
-                  <Link className={classes.Link} to="/resultBox">
-                    {' '}
-                    Submit answer
-                  </Link>
-                </button>
               </Route>
               <Route path="/resultBox">
                 <ResultBox
@@ -131,7 +123,7 @@ const Form = (props) => {
             {Math.floor((score / 645) * 100)}%
           </span>
         </h2>
-        <button className="btn btn-success m-2" onClick={restarHandler}>
+        <button className="btn btn-success m-2" onClick={restartHandler}>
           <Link
             style={{ color: 'white', textDecoration: 'none' }}
             to="/inputHandler"
