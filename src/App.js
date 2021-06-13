@@ -5,6 +5,7 @@ import Kanji from './Components/Kanji/Kanji';
 import Form from './Components/Form/Form';
 import myData from './data.json';
 import Modal from './Components/Modal/Modal';
+import { Link } from 'react-router-dom';
 
 class App extends Component {
   state = {
@@ -23,6 +24,7 @@ class App extends Component {
   };
 
   componentDidMount() {
+    // render all data at first load
     // To set keys ans kanjis on an array
     const kanjis = [];
     const allKanjiValue = [];
@@ -58,6 +60,7 @@ class App extends Component {
   }
 
   nextHandler = () => {
+    // render data after modal
     // for one kanji that will be display
     const rand = Math.floor(Math.random() * this.state.keys.length);
 
@@ -130,7 +133,12 @@ class App extends Component {
           <h3>Anki Kanji App</h3>
           <h3 className="m-4">Choose the correct answer!</h3>
           <button className="btn btn-success m-2" onClick={this.nextHandler}>
-            Click to start
+            <Link
+              style={{ color: 'white', textDecoration: 'none' }}
+              to="/inputHandler"
+            >
+              Click to start
+            </Link>
           </button>
         </Modal>
 

@@ -89,7 +89,7 @@ const Form = (props) => {
         <div className="m-2">
           <form>
             <Switch>
-              <Route path="/" exact>
+              <Route path="/inputHandler" exact>
                 <h4 style={{ fontSize: '1rem' }}>{props.question}</h4>
                 <InputHandler
                   questionKey={props.questionKey}
@@ -132,7 +132,10 @@ const Form = (props) => {
           </span>
         </h2>
         <button className="btn btn-success m-2" onClick={restarHandler}>
-          <Link style={{ color: 'white', textDecoration: 'none' }} to="/">
+          <Link
+            style={{ color: 'white', textDecoration: 'none' }}
+            to="/inputHandler"
+          >
             Restart?
           </Link>
         </button>

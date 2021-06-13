@@ -23,10 +23,7 @@ const resultBox = (props) => {
     <React.Fragment>
       <h3>{textEvent.h3Text}</h3>
       <button onClick={textEvent.btnEvent} className={textEvent.class}>
-        <Link
-          className={classes.Link}
-          to={props.show === false ? '/' : '/resultBox'}
-        >
+        <Link className={classes.Link} to={'/inputHandler'}>
           {textEvent.btnText}
         </Link>
       </button>
