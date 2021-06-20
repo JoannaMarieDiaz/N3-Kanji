@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import ReactCardFlip from 'react-card-flip';
+import style from './Kanji.module.css';
 
 const Kanji = (props) => {
   const [isFlipped, setFlipped] = useState(false);
@@ -14,8 +15,8 @@ const Kanji = (props) => {
   const sliceExampleArray = props.examples.slice(0, 2);
   const liHandler = Object.values(sliceExampleArray).map((ex, i) => {
     return (
-      <li style={{ fontSize: '0.9rem' }} className="m-2" key={i}>
-        {ex.substr(0, 70)}
+      <li style={{ fontSize: '0.9rem' }} className={style.Li} key={i}>
+        {ex}
       </li>
     );
   });
@@ -26,7 +27,7 @@ const Kanji = (props) => {
         <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
           <div
             style={{
-              width: '10rem',
+              width: '12rem',
               height: '10rem',
               border: '1px solid black',
               fontSize: '7em',
@@ -43,14 +44,15 @@ const Kanji = (props) => {
           <div
             className="card"
             style={{
-              width: '10rem',
+              width: '12rem',
               height: '10rem',
               border: '1px solid black',
               fontSize: '5rem',
-              overflow: 'hidden',
             }}
           >
-            <ul>{liHandler}</ul>
+            <div className={style.Scroll}>
+              <ul>{liHandler}</ul>
+            </div>
           </div>
         </ReactCardFlip>
         <div className="m-1">

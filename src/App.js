@@ -59,8 +59,7 @@ class App extends Component {
     });
   }
 
-  nextHandler = (e) => {
-    e.preventDefault();
+  nextHandler = () => {
     // render data after modal
     // for one kanji that will be display
     const rand = Math.floor(Math.random() * this.state.keys.length);
@@ -134,6 +133,10 @@ class App extends Component {
           <Modal clicked={this.closeModalHandler} show={this.state.show}>
             <h3>Anki Kanji App</h3>
             <h3 className="m-4">Choose the correct answer!</h3>
+            <p>
+              All N3 Kanji are total of 645 character. Try to get it right as
+              much as you can.
+            </p>
             <button className="btn btn-success m-2" onClick={this.nextHandler}>
               <Link
                 style={{ color: 'white', textDecoration: 'none' }}

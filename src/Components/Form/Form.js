@@ -21,7 +21,8 @@ const Form = (props) => {
     const value = chooseAnswer;
     if (value === props.correctAnswer) {
       setIsCorrect(true);
-      setScore((prev) => prev + 1);
+      setScore(score + 1);
+      // setScore((prev) => prev + 1);
     } else {
       setIsCorrect(false);
     }
@@ -123,14 +124,19 @@ const Form = (props) => {
             {Math.floor((score / 645) * 100)}%
           </span>
         </h2>
-        <button className="btn btn-success m-2" onClick={restartHandler}>
-          <Link
-            style={{ color: 'white', textDecoration: 'none' }}
-            to="/inputHandler"
-          >
-            Restart?
-          </Link>
-        </button>
+        <div className={classes.button}>
+          <button className="btn btn-success m-2" onClick={restartHandler}>
+            <Link
+              style={{ color: 'white', textDecoration: 'none' }}
+              to="/inputHandler"
+            >
+              Restart?
+            </Link>
+          </button>
+          <button className="btn btn-primary m-2" onClick={modalHandler}>
+            Back
+          </button>
+        </div>
       </Modal>
       <div
         style={{

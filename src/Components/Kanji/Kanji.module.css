@@ -1,0 +1,13 @@
+/* width */
+.Scroll {
+  margin: 0;
+  width: 180px;
+  overflow-y: scroll;
+  scrollbar-color: rebeccapurple green;
+  scrollbar-width: thin;
+}
+
+.Li {
+  margin: 10px 0;
+  padding-right: 3px;
+}

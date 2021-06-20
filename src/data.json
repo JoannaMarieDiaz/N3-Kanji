@@ -1284,5 +1284,200 @@
       "形成 けいせい formation, molding, taking form (n, vs)",
       "形容詞 けいようし (true) adjective, i-adjective (n)"
     ]
+  },
+  "役": {
+    "onyomi": "ヤク, エキ",
+    "kunyomi": "なし",
+    "english": "duty, war, campaign, drafted labor, office, service, role",
+    "example": [
+      "区役所 くやくしょ ward office, council (regional) (n)",
+      "現役 げんえき active duty, active service (n)",
+      "市役所 しやくしょ municipal office, council, city hall (n)",
+      "主役 しゅやく leading part, leading actor (actress) (n)",
+      "重役 おもやく director, high executive, (person with) heavy responsibilities (n)"
+    ]
+  },
+  "径": {
+    "onyomi": "ケイ",
+    "kunyomi": "みち, こみち, さしわたし, ただちに",
+    "english": "diameter, path, method",
+    "example": [
+      "径 みち road, street, way, method (n)",
+      "半径 はんけい radius (n)"
+    ]
+  },
+  "徒": {
+    "onyomi": "ト",
+    "kunyomi": "いたずら, あだ",
+    "english": "junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people",
+    "example": ["生徒 せいと pupil (n)", "徒歩 とほ walking, going on foot (n)"]
+  },
+  "得": {
+    "onyomi": "トク",
+    "kunyomi": "え.る, う.る",
+    "english": "gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit",
+    "example": [
+      "獲得 かくとく acquisition, possession (n, vs)",
+      "取得 しゅとく acquisition (n, vs)",
+      "拾得 しゅうとく picking up, finding (n, vs)",
+      "所得 しょとく income, earnings (n)",
+      "心得 こころえ knowledge, information (n)"
+    ]
+  },
+  "必": {
+    "onyomi": "ヒツ",
+    "kunyomi": "かなら.ず",
+    "english": "invariably, certain, inevitable",
+    "example": [
+      "必ず かならず necessarily, certainly, without fail, positively, invariably (adv)",
+      "必ずしも かならずしも (not) always, (not) necessarily, (not) all, (not) entirely (adv)",
+      "必修 ひっしゅう required (subject) (n)",
+      "必須 ひっす indispensable, required (adj-na, n)",
+      "必然 ひつぜん inevitable, necessary (n)"
+    ]
+  },
+  "念": {
+    "onyomi": "ネン",
+    "kunyomi": "なし",
+    "english": "wish, sense, idea, thought, feeling, desire, attention",
+    "example": [
+      "概念 がいねん general idea, concept, notion (n)",
+      "観念 かんねん idea, notion, conception, sense (eg of duty), resignation, preparedness, acceptance (n, vs)",
+      "記念 きねん commemoration, memory (n, vs)",
+      "記念日 きねんび holiday, anniversary, memorial day (n)",
+      "懸念 けねん worry, fear, anxiety, concern (n, vs)"
+    ]
+  },
+  "息": {
+    "onyomi": "ソク",
+    "kunyomi": "いき",
+    "english": "breath, respiration, son, interest (on money)",
+    "example": [
+      "休息 きゅうそく rest, relief, relaxation (n, vs)",
+      "消息 しょうそく news, letter, circumstances (n)",
+      "息 おき breath, breathing, tone, mood (n)",
+      "息 そく son, penis (n)",
+      "息切れ いきぎれ shortness of breath (n, vs)"
+    ]
+  },
+  "悲": {
+    "onyomi": "ヒ",
+    "kunyomi": "かな.しい, かな.しむ",
+    "english": "jail cell, grieve, sad, deplore, regret",
+    "example": [
+      "慈悲 じひ compassion, benevolence, charity, mercy (n)",
+      "悲観 ひかん pessimism, disappointment (n, vs)",
+      "悲劇 ひげき tragedy, disaster (n)",
+      "悲惨 ひさん disastrous, tragic, miserable, wretched, pitiful (adj-na)",
+      "悲鳴 ひめい shriek, scream (n, vs)"
+    ]
+  },
+  "想": {
+    "onyomi": "ソウ, ソ",
+    "kunyomi": "おも.う",
+    "english": "concept, think, idea, thought",
+    "example": [
+      "回想 かいそう reflection, reminiscence (n, vs)",
+      "感想 かんそう impressions, thoughts (n, vs)",
+      "空想 くうそう daydream, fantasy, fancy, vision (n, vs)",
+      "幻想 げんそう illusions (n)",
+      "構想 こうそう plan, plot, idea, conception (n, vs)"
+    ]
+  },
+  "愛": {
+    "onyomi": "アイ",
+    "kunyomi": "いと.しい",
+    "english": "love, affection, favourite",
+    "example": [
+      "愛 あい love, affection (n, n-suf)",
+      "愛しい いとしい lovely, dear, beloved, darling (adj)",
+      "愛する あいする to love (suru verb - special class, vt)",
+      "愛情 あいじょう love, affection (n)",
+      "愛読 あいどく reading with pleasure (n, vs)"
+    ]
+  },
+  "感": {
+    "onyomi": "カン",
+    "kunyomi": "いと.しい",
+    "english": "emotion, feeling, sensation",
+    "example": [
+      "感じ かんじ feeling, sense, impression (n)",
+      "感じる かんじる to feel, to sense, to experience (Ichidan verb, intransitive verb)",
+      "感覚 かんかく sense, sensation (n, vs)",
+      "感激 かんげき deep emotion, impression, inspiration (n, vs)",
+      "感謝 かんしゃ thanks, gratitude (adj-na, n, vs)"
+    ]
+  },
+  "成": {
+    "onyomi": "セイ, ジョウ",
+    "kunyomi": "な.る, な.す, -な.す",
+    "english": "turn into, become, get, grow, elapse, reach",
+    "example": [
+      "完成 かんせい complete, completion, perfection, accomplishment (n, vs)",
+      "既成 きせい established, completed, existing (n, adj-no)",
+      "形成 けいせい formation, molding, taking form (n, vs)",
+      "結成 けっせい formation (n, vs)",
+      "構成 こうせい organization, organisation, configuration, composition (n, vs)"
+    ]
+  },
+  "戦": {
+    "onyomi": "セン",
+    "kunyomi": "いくさ, たたか.う, おのの.く, そよぐ, わなな.く",
+    "english": "war, battle, match",
+    "example": [
+      "策戦 さくせん military or naval operations, tactics, strategy (n)",
+      "終戦 しゅうせん end of war, cessation of hostilities (n)",
+      "戦災 せんさい war damage (n)",
+      "戦死 せんし death in action (n, vs)",
+      "戦車 せんしゃ tank (military vehicle) (n)"
+    ]
+  },
+  "戸": {
+    "onyomi": "コ",
+    "kunyomi": "と",
+    "english": "door, counter for houses, door radical (no. 63)",
+    "example": [
+      "井戸 いど water well (n)",
+      "雨戸 あまど sliding storm door (n)",
+      "戸籍 こせき census, family register (n)",
+      "戸棚 とだな cupboard, locker, closet, wardrobe (n)",
+      "戸締り とじまり closing up, fastening the doors (n)"
+    ]
+  },
+  "才": {
+    "onyomi": "サイ",
+    "kunyomi": "なし",
+    "english": "genius, years old, cubic shaku",
+    "example": [
+      "才能 さいのう talent, ability (n)",
+      "才 さい -years-old, ability, gift, talent, aptitude, genius (suffix)",
+      "秀才 しゅうさい prodigy (n)",
+      "人才 じんさい man of talent, capable person (n)",
+      "天才 てんさい genius, prodigy, natural gift (n)"
+    ]
+  },
+  "打": {
+    "onyomi": "ダ, ダアス",
+    "kunyomi": "う.つ, う.ち-, ぶ.つ",
+    "english": "strike, hit, knock, pound, dozen",
+    "example": [
+      "打上げる うちあげる to launch, to shoot up, (of waves) dash, to wash up (ashore), to finish, to close (Ichidan verb, vt)",
+      "打つ うつ to hit (something inanimate), to strike, to beat (on something), to type, to tap (eg a key) (v5t)",
+      "打撃 だげき blow, shock, strike, damage, batting (baseball) (n)",
+      "打破 だは break-down, defeat, abolish (n, vs)",
+      "打撲 だぼく blow, hit (on the body), beating (n, vs)"
+    ]
+  },
+  "投": {
+    "onyomi": "トウ",
+    "kunyomi": "な.げる, -な.げ",
+    "english": "throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss",
+    "example": [
+      "投げる なげる to throw, to cast away, to face defeat, to give up (Ichidan verb, vt)",
+      "投じる とうじる to throw, to cast, to invest (Ichidan verb, intransitive verb)",
+      "投影 とうえい projection (n, vs)",
+      "投資 とうし investment (n, vs)",
+      "投書 とうしょ letter to the editor, letter from a reader, contribution (n, vs)"
+    ]
   }
 }
