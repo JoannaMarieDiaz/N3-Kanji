@@ -90,7 +90,7 @@ const Form = (props) => {
       </div>
       <div className={classes.Card}>
         <div className="m-2">
-          <form>
+          <form onSubmit={formHandler}>
             <Switch>
               <Route path="/inputHandler" exact>
                 <h4 style={{ fontSize: '1rem' }}>{props.question}</h4>
