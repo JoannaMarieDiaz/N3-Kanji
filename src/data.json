@@ -1479,5 +1479,348 @@
       "投資 とうし investment (n, vs)",
       "投書 とうしょ letter to the editor, letter from a reader, contribution (n, vs)"
     ]
+  },
+  "折": {
+    "onyomi": "セツ",
+    "kunyomi": "お.る, おり, お.り, -お.り, お.れる",
+    "english": "fold, break, fracture, bend, yield, submit",
+    "example": [
+      "屈折 くっせつ bending, indentation, refraction, inflection (n, vs)",
+      "骨折 こっせつ bone fracture (n, vs)",
+      "折 おり chance, suitable time (n-adv, n-t)",
+      "折り返し おりかえし by return, (call or write back) without delay, lapel, cuffs, flap, chorus, refrain, repetition, aliasing (in imaging), shuttle service, back-to-back, BTB (adv, n, adj-no)",
+      "折り返す おりかえす to turn up, to fold back, to loopback (a signal, a message) (v5s, vt)"
+    ]
+  },
+  "拾": {
+    "onyomi": "シュウ, ジュウ",
+    "kunyomi": "ひろ.う",
+    "english": "pick up, gather, find, go on foot, ten",
+    "example": [
+      "収拾 しゅうしゅう control, settling, coping (n, vs)",
+      "拾う ひろう to pick up, to find, to gather (v5s, vt)",
+      "拾得 しゅうとく picking up, finding (n, vs))"
+    ]
+  },
+  "指": {
+    "onyomi": "シ",
+    "kunyomi": "ゆび, さ.す, -さ.し",
+    "english": "finger, point to, indicate, put into, play (chess), measure (ruler)",
+    "example": [
+      "指 ゆび finger (n)",
+      "指す さす to point, to nominate, to select someone, to specify some person, to identify, to indicate, to point out (v5s, vt)",
+      "指揮 しき command, direction (n, vs)",
+      "指示 しじ indication, instruction, designation, directions (n, vs)",
+      "指し図 さしず instruction, mandate, directions (n, vs)"
+    ]
+  },
+  "挙": {
+    "onyomi": "キョ",
+    "kunyomi": "あ.げる, あ.がる, こぞ.る",
+    "english": "raise, plan, project, behavior, actions",
+    "example": [
+      "選挙 せんきょ election (n, vs)",
+      "挙句 あげく in the end, finally, after all, at last (n-adv, n-t)"
+    ]
+  },
+  "改": {
+    "onyomi": "カイ",
+    "kunyomi": "あらた.める, あらた.まる",
+    "english": "reformation, change, modify, mend, renew, examine, inspect, search",
+    "example": [
+      "改めて あらためて another time, again, over again, anew, formally (adv)",
+      "改革 かいかく reform, reformation, innovation (n, vs)",
+      "改札 かいさつ examination of tickets (n, vs)",
+      "改正 かいせい revision, amendment, alteration (n, vs)",
+      "改善 かいぜん betterment, improvement, incremental and continuous improvement (n, vs)"
+    ]
+  },
+  "放": {
+    "onyomi": "ホウ",
+    "kunyomi": "はな.す, -っぱな.し, はな.つ, はな.れる, こ.く, ほう.る ",
+    "english": "set free, release, fire, shoot, emit, banish, liberate",
+    "example": [
+      "解放 かいほう release, unleashing, liberation, emancipation, deallocation (of computer memory), setting free (n, vs)",
+      "開放 かいほう open, throw open, liberalization, liberalisation (n, vs)",
+      "釈放 しゃくほう release, liberation, acquittal (n, vs)",
+      "追放 ついほう exile, banishment (n, vs)",
+      "放す はなす to separate, to set free, to turn loose (v5s, vt)"
+    ]
+  },
+  "救": {
+    "onyomi": "キュウ",
+    "kunyomi": "すく.う",
+    "english": "salvation, save, help, rescue, reclaim",
+    "example": [
+      "救い すくい help, aid, relief, salvation (n)",
+      "救う すくう to rescue from, to help out of, to save (v5s, vt)",
+      "救援 きゅうえん relief, rescue, reinforcement (n, vs)",
+      "救急車 きゅうきゅうしゃ ambulance (n)",
+      "救済 きゅうさい relief, aid, rescue, salvation, help (n, vs)"
+    ]
+  },
+  "敗": {
+    "onyomi": "ハイ",
+    "kunyomi": "やぶ.れる",
+    "english": "failure, defeat, reversal",
+    "example": [
+      "失敗 しっぱい failure, mistake, blunder (n, adj-no, vs)",
+      "勝敗 しょうはい victory or defeat, issue (of battle) (n)",
+      "敗る やぶる to tear, to violate, to defeat, to smash, to destroy (v5r, vt)",
+      "敗戦 はいせん defeat, losing a war (n, vs)",
+      "敗北 はいぼく defeat (as a verb it means 'to be defeated') (n, vs)"
+    ]
+  },
+  "散": {
+    "onyomi": "サン",
+    "kunyomi": "ち.る, ち.らす, -ち.らす, ち.らかす, ち.らかる, ばら",
+    "english": "scatter, disperse, spend, squander",
+    "example": [
+      "解散 かいさん breakup, dissolution (n, vs)",
+      "散らかる ちらかる to be in disorder, to lie scattered around (v5r, intransitive verb)",
+      "散らし チラシ scattering, leaflets (n)",
+      "散らす ちらす to scatter, to disperse, to distribute (v5s, vt)",
+      "散らばる ちらばる to be scattered about (v5r, intransitive verb)"
+    ]
+  },
+  "数": {
+    "onyomi": "スウ, ス, サク, ソク, シュ",
+    "kunyomi": "かず, かぞ.える, しばしば, せ.める, わずらわ.しい",
+    "english": "number, strength, fate, law, figures",
+    "example": [
+      "過半数 かはんすう majority (n)",
+      "画数 かくすう stroke count (n)",
+      "回数 かいすう number of times, frequency, count (n)",
+      "回数券 かいすうけん book of tickets (n)",
+      "奇数 きすう odd number (n)"
+    ]
+  },
+  "整": {
+    "onyomi": "セイ",
+    "kunyomi": "ととの.える, ととの.う",
+    "english": "organize, arranging, tune, tone, meter, key (music)",
+    "example": [
+      "整備 せいび maintenance, servicing, outfitting (n, vs)",
+      "整理 せいり sorting, arrangement, organization, putting in order, adjustment, regulation, liquidation (n, vs)",
+      "整列 せいれつ standing in a row, forming a line, alignment (n, vs)",
+      "調整 ちょうせい regulation, adjustment, tuning, modification, alteration (n, vs)"
+    ]
+  },
+  "旗": {
+    "onyomi": "キ",
+    "kunyomi": "はた",
+    "english": "national flag, banner, standard",
+    "example": ["旗 はた flag (n)", "国旗 こっき national flag (n)"]
+  },
+  "昔": {
+    "onyomi": "セキ, シャク",
+    "kunyomi": "むかし",
+    "english": "once upon a time, antiquity, old times",
+    "example": [
+      "一昔 ひとむかし ages, long time, decade, the past ten years (n)",
+      "昔 むかし olden days, former (adj-no, n-adv, n-t)",
+      "昔話 むかしばなし folklore, legend (n)"
+    ]
+  },
+  "星": {
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "ほし, -ぼし",
+    "english": "star, spot, dot, mark",
+    "example": [
+      "衛星 えいせい satellite (n)",
+      "火星 かせい Mars (planet) (n)",
+      "星 ほし star (n)",
+      "星座 せいざ constellation (n)"
+    ]
+  },
+  "昨": {
+    "onyomi": "サク",
+    "kunyomi": "なし",
+    "english": "yesterday, previous",
+    "example": [
+      "昨年 さくねん last year (n-adv, n-t)",
+      "昨晩 さくばん last night (n-adv, n-t)",
+      "昨夜 さくや evening, last night (n-adv, n-t)",
+      "一昨日 おととい day before yesterday (n-adv, n-t)",
+      "一昨年 おととし year before last (n-adv, n-t)"
+    ]
+  },
+  "昭": {
+    "onyomi": "ショウ",
+    "kunyomi": "なし",
+    "english": "shining, bright",
+    "example": ["昭和 しょうわ Showa era (1926.12.25-1989.1.7) (n)"]
+  },
+  "景": {
+    "onyomi": "ケイ",
+    "kunyomi": "なし",
+    "english": "scenery, view",
+    "example": [
+      "景気 けいき condition, state, business (condition) (n)",
+      "景色 けしき scenery, scene, landscape (n)",
+      "光景 こうけい scene, spectacle (n)",
+      "背景 はいけい background, scenery, setting, circumstance (n)",
+      "不景気 ふけいき business recession, hard times, depression, gloom, sullenness, cheerlessness (adj-na, n)"
+    ]
+  },
+  "晴": {
+    "onyomi": "セイ",
+    "kunyomi": "は.れる, は.れ, は.れ-, -ば.れ, は.らす",
+    "english": "clear up",
+    "example": [
+      "快晴 かいせい good weather (n)",
+      "見晴らし みはらし view (n)",
+      "晴天 せいてん fine weather (n)",
+      "素晴しい すばらしい wonderful, splendid, magnificent (adj)"
+    ]
+  },
+  "曲": {
+    "onyomi": "キョク",
+    "kunyomi": "ま.がる, ま.げる",
+    "english": "bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean",
+    "example": [
+      "歌謡曲 かようきょく popular song (n)",
+      "戯曲 ぎきょく play, drama (n)",
+      "曲 きょく tune, piece of music (n, n-suf)",
+      "曲り角 まがりかど street corner, road turn, bend in the road, turning point (n)",
+      "曲る まがる to bend, to curve, to warp, to wind, to twist, to turn, to be awry, to be askew, to be crooked (v5r, intransitive verb)"
+    ]
+  },
+  "最": {
+    "onyomi": "サイ, シュ",
+    "kunyomi": "もっと.も, つま",
+    "english": "utmost, most, extreme",
+    "example": [
+      "最も もっとも most, extremely (adv)",
+      "最悪 さいあく the worst (adj-na, n)",
+      "最期 さいご one's last moment, one's time of death (n-adv, n)",
+      "最強 さいきょう strongest (n)",
+      "最近 さいきん latest, most recent, nowadays (adj-no, n-adv, n-t)"
+    ]
+  },
+  "望": {
+    "onyomi": "ボウ, モウ",
+    "kunyomi": "のぞ.む, もち",
+    "english": "ambition, full moon, hope, desire, aspire to, expect",
+    "example": [
+      "冀望 きぼう hope, wish, aspiration (n, vs)",
+      "失望 しつぼう disappointment, despair (n, vs)",
+      "絶望 ぜつぼう despair, hopelessness (n, vs)",
+      "待ち望む まちのぞむ to look anxiously for, to wait eagerly for (v5m, vt)",
+      "待望 たいぼう expectant waiting, long-awaited (n, vs, adj-no)"
+    ]
+  },
+  "期": {
+    "onyomi": "キ, ゴ",
+    "kunyomi": "のぞ.む, もち",
+    "english": "period, time, date, term",
+    "example": [
+      "延期 えんき postponement, adjournment (n, vs)",
+      "過渡期 かとき transition period (n)",
+      "学期 がっき school term, semester (n)",
+      "期間 きかん period, term (n)",
+      "期限 きげん term, period, time frame, time limit, deadline, cutoff (date) (n)"
+    ]
+  },
+  "未": {
+    "onyomi": "ミ, ビ",
+    "kunyomi": "いま.だ, ま.だ, ひつじ",
+    "english": "un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac",
+    "example": [
+      "未開 みかい savage land, backward region, uncivilized, uncivilised (adj-na, n, adj-no)",
+      "未婚 みこん unmarried (adj-no, n)",
+      "未熟 みじゅく inexperience, unripeness, raw, unskilled, immature, inexperienced (adj-na, n)",
+      "未遂 みすい attempt (at crime) (n, n-suf)",
+      "未然 みぜん before it happens, previously (n)"
+    ]
+  },
+  "末": {
+    "onyomi": "マツ, バツ",
+    "kunyomi": "すえ",
+    "english": "end, close, tip, powder, posterity",
+    "example": [
+      "期末 きまつ end of term (n)",
+      "結末 けつまつ end, conclusion (n)",
+      "月末 つきずえ end of the month (n-adv, n-t)",
+      "跡始末 あとしまつ settlement (of affairs), remedial measures, cleaning up afterwards (n, vs)",
+      "歳末 さいまつ year end (n)"
+    ]
+  },
+  "札": {
+    "onyomi": "サツ",
+    "kunyomi": "ふだ",
+    "english": "tag, paper money, counter for bonds, placard, bid",
+    "example": [
+      "改札 かいさつ examination of tickets (n, vs)",
+      "札 ふだ token, label, ticket, card, charm, talisman (n)",
+      "入札 にゅうさつ bid, bidding (n, vs)",
+      "名札 なふだ name plate, name tag (n)",
+      "落札 らくさつ having one's bid accepted (eg for contract) (n, vs)"
+    ]
+  },
+  "材": {
+    "onyomi": "ザイ",
+    "kunyomi": "なし",
+    "english": "lumber, log, timber, wood, talent",
+    "example": [
+      "材木 ざいもく lumber, timber (n)",
+      "材料 ざいりょう ingredients, material (n)",
+      "取材 しゅざい collecting data (eg for a newspaper article), covering an event (n, vs)",
+      "素材 そざい raw materials, subject matter (n)",
+      "木材 もくざい lumber, timber, wood (n)"
+    ]
+  },
+  "束": {
+    "onyomi": "ソク",
+    "kunyomi": "たば, たば.ねる, つか, つか.ねる",
+    "english": "bundle, sheaf, ream, tie in bundles, govern, manage, control",
+    "example": [
+      "花束 はなたば bunch of flowers, bouquet (n)",
+      "拘束 こうそく restriction, restraint (n, vs)",
+      "束 たば bundle, bunch, sheaf, coil (n)",
+      "束縛 そくばく restraint, shackles, restriction, confinement, binding (n, vs)",
+      "約束 やくそく arrangement, promise, appointment, pact, engagement, convention, rule (n, vs)"
+    ]
+  },
+  "松": {
+    "onyomi": "ショウ",
+    "kunyomi": "まつ",
+    "english": "pine tree",
+    "example": [
+      "松 まつ pine tree, highest (of a three-tier ranking system) (n)"
+    ]
+  },
+  "板": {
+    "onyomi": "ハン, バン",
+    "kunyomi": "いた",
+    "english": "plank, board, plate, stage",
+    "example": [
+      "看板 かんばん sign, signboard, doorplate, poster, billboard, appearance, figurehead, policy, attraction, closing time (n)",
+      "黒板 こくばん blackboard (n)",
+      "板 いた board, plank, sheet (of metal), plate (of glass), pane, slab, cutting board, chopping board, stage (ie at a theatre) (n)",
+      "板画 はんが woodcut, woodblock print, art print (n)",
+      "甲板 こうはん (ship) deck (n)"
+    ]
+  },
+  "果": {
+    "onyomi": "カ",
+    "kunyomi": "は.たす, はた.す, -は.たす, は.てる, -は.てる, は.て",
+    "english": "fruit, reward, carry out, achieve, complete, end, finish, succeed",
+    "example": [
+      "果たす はたす to accomplish, to fulfill, to carry out, to achieve (v5s)",
+      "果てし無い はてしない endless, boundless, everlasting (adj)",
+      "果実 かじつ fruit, nut, berry (n)",
+      "果物 かぶつ fruit (n)",
+      "逆効果 ぎゃっこうか backfire, counterproductive, opposite effect (n)"
+    ]
+  },
+  "柱": {
+    "onyomi": "チュウ",
+    "kunyomi": "はしら",
+    "english": "pillar, post, cylinder, support",
+    "example": [
+      "柱 はしら pillar, post, support, prop, mainstay, counter for buddhas, gods, nobles, etc. (n, suffix, counter)",
+      "電柱 でんちゅう telephone pole, telegraph pole, lightpole (n)"
+    ]
   }
 }
