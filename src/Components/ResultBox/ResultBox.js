@@ -23,7 +23,15 @@ const resultBox = (props) => {
     <div className="resultBoxDiv">
       <h3>{textEvent.h3Text}</h3>
       <button onClick={textEvent.btnEvent} className={textEvent.class}>
-        <Link className={classes.Link} to={'/inputHandler'}>
+        <Link
+          className={classes.Link}
+          to={'/inputHandler'}
+          style={{
+            // border: '1px solid black',
+            padding: '25% 20% 25% 20%',
+            marginRight: '30px',
+          }}
+        >
           {textEvent.btnText}
         </Link>
       </button>

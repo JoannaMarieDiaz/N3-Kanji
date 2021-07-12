@@ -25,14 +25,20 @@ const inputHandler = (props) => {
 
   return (
     <React.Fragment>
-      {inputs}{' '}
+      <div>{inputs} </div>
       <button
         style={{ width: '8rem' }}
         type="submit"
         className="btn btn-success m-2"
         onClick={props.formHandler}
       >
-        <Link className={classes.Link} to="/resultBox">
+        <Link
+          className={classes.Link}
+          to="/resultBox"
+          style={{
+            padding: '10% 1%',
+          }}
+        >
           {' '}
           Submit answer
         </Link>
