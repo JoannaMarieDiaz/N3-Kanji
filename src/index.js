@@ -5,15 +5,6 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
 
-// if (typeof window !== 'undefined') {
-//   window.dataLayer = window.dataLayer || [];
-//   function gtag() {
-//     dataLayer.push(arguments);
-//   }
-//   gtag('js', new Date());
-//   gtag('config', 'G-FV187K8D0L');
-// }
-
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>

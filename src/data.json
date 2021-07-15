@@ -1822,5 +1822,253 @@
       "柱 はしら pillar, post, support, prop, mainstay, counter for buddhas, gods, nobles, etc. (n, suffix, counter)",
       "電柱 でんちゅう telephone pole, telegraph pole, lightpole (n)"
     ]
+  },
+  "栄": {
+    "onyomi": "エイ, ヨウ",
+    "kunyomi": "さか.える, は.え, -ば.え, は.える, え",
+    "english": "flourish, prosperity, honor, glory, splendor",
+    "example": [
+      "栄える さかえる to prosper, to flourish (Ichidan verb, intransitive verb)",
+      "栄光 えいこう glory (n)",
+      "繁栄 はんえい prospering, prosperity, thriving, flourishing (n, vs)"
+    ]
+  },
+  "根": {
+    "onyomi": "コン",
+    "kunyomi": "ね, -ね",
+    "english": "root, radical, head (pimple)",
+    "example": [
+      "屋根 やね roof (n)",
+      "垣根 かきね hedge (n)",
+      "根 ね root (n)",
+      "根回し ねまわし making necessary arrangements (n, vs)",
+      "根気 こんき patience, perseverance, persistence, tenacity, energy (n)"
+    ]
+  },
+  "案": {
+    "onyomi": "アン",
+    "kunyomi": "つくえ",
+    "english": "plan, suggestion, draft, ponder, fear, proposition, idea, expectation, bill, worry",
+    "example": [
+      "案の定 あんのじょう just as one thought, as usual (adv, exp)",
+      "案外 あんがい unexpectedly (adj-na, n-adv)",
+      "案内 あんない information, guidance, leading, to guide, to show (around), to conduct (n, vs)",
+      "提案 ていあん proposal, proposition, suggestion (n, vs)",
+      "答案 とうあん examination paper, examination script (n)"
+    ]
+  },
+  "梅": {
+    "onyomi": "バイ",
+    "kunyomi": "うめ",
+    "english": "plum",
+    "example": [
+      "梅雨入り つゆいり entering the rainy season, beginning of the rainy season (n, vs)",
+      "梅 ウメ plum, Japanese apricot, prunus mume, lowest (of a three-tier ranking system) (n)",
+      "梅干 うめぼし dried plum (n)",
+      "梅雨明け つゆあけ the end of the rainy season (n, vs)"
+    ]
+  },
+  "械": {
+    "onyomi": "カイ",
+    "kunyomi": "かせ",
+    "english": "contraption, fetter, machine, instrument",
+    "example": [
+      "器械 きかい machine, mechanism, instrument, appliance, apparatus (n)"
+    ]
+  },
+  "植": {
+    "onyomi": "ショク",
+    "kunyomi": "う.える, う.わる",
+    "english": "plant",
+    "example": [
+      "移植 いしょく transplanting, porting, implantation, engrafting (n, vs)",
+      "植える うえる to plant, to grow (Ichidan verb, vt)",
+      "植物 しょくぶつ plant, vegetation (n)",
+      "植物園 しょくぶつえん botanical garden (n)",
+      "植民地 しょくみんち colony, colonial (n, adj-no)"
+    ]
+  },
+  "極": {
+    "onyomi": "キョク, ゴク",
+    "kunyomi": "きわ.める, きわ.まる, きわ.まり, きわ.み, き.める, -ぎ.め, き.まる",
+    "english": "poles, settlement, conclusion, end, highest rank, electric poles, very, extremely, most, highly, 10**48",
+    "example": [
+      "窮極 きゅうきょく ultimate, extreme, final, eventual (n, adj-no)",
+      "極 ごく quite, very, octillion, 10^48 (adv, n)",
+      "極楽 ごくらく Sukhavati (Amitabha's Pure Land), paradise (n)",
+      "極限 きょくげん utmost limits, limit (n)",
+      "極端 きょくたん extreme, extremity (adj-na, n)"
+    ]
+  },
+  "様": {
+    "onyomi": "ヨウ, ショウ",
+    "kunyomi": "さま, さん",
+    "english": "Esq., way, manner, situation, polite suffix",
+    "example": [
+      "ご苦労様 ごくろうさま thank you very much for your ..., I appreciate your efforts (exp, adj-na)",
+      "一様 いちよう uniformity, evenness, similarity, equality, impartiality (adj-na, n)",
+      "奥様 おくさま wife, your wife, his wife, married lady, madam (n)",
+      "皆様 みなさま everyone (n)",
+      "神様 かみさま God (n)"
+    ]
+  },
+  "標": {
+    "onyomi": "ヒョウ",
+    "kunyomi": "しるべ, しるし",
+    "english": "signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target",
+    "example": [
+      "標語 ひょうご motto, slogan, catchword (n)",
+      "標識 ひょうしき sign, mark, flag (n)",
+      "標準 ひょうじゅん standard, level, norm (n)",
+      "標本 ひょうほん example, specimen, sample (n)",
+      "目標 もくひょう mark, objective, target (n)"
+    ]
+  },
+  "横": {
+    "onyomi": "オウ",
+    "kunyomi": "よこ",
+    "english": "sideways, side, horizontal, width, woof",
+    "example": [
+      "横 よこ horizontal (as opposed to vertical), lying down, side-to-side (as opposed to front-to-back), width, breadth, side (of a box, etc.), beside, aside, next to, unconnected (n)",
+      "横たわる よこたわる to lie down, to stretch out (v5r, intransitive verb)",
+      "横顔 よこがお face in profile, profile, face seen from the side (n)",
+      "横綱 よこづな yokozuna (sumo grand champion) (n)",
+      "横取り よこどり usurpation, snatching, seizure (n, vs)"
+    ]
+  },
+  "橋": {
+    "onyomi": "キョウ",
+    "kunyomi": "はし",
+    "english": "bridge",
+    "example": [
+      "橋 はし bridge (n)",
+      "桟橋 さんばし wharf, bridge, jetty, pier (n)",
+      "鉄橋 てっきょう railway bridge, iron bridge (n)",
+      "陸橋 りっきょう overland bridge, viaduct, overhead bridge, overpass (n)",
+      "架け橋 かけはし bridge building, cross-linking (n, vs)"
+    ]
+  },
+  "機": {
+    "onyomi": "キ",
+    "kunyomi": "はた",
+    "english": "mechanism, opportunity, occasion, machine, airplane",
+    "example": [
+      "危機 きき crisis (n)",
+      "機会 きかい chance, opportunity (n)",
+      "機関 きかん mechanism, facility, engine, agency, organisation, institution, organ (n)",
+      "機関車 きかんしゃ locomotive, engine (n)",
+      "機構 きこう mechanism, organization, organisation (n)"
+    ]
+  },
+  "欠": {
+    "onyomi": "ケツ, ケン",
+    "kunyomi": "か.ける, か.く",
+    "english": "lack, gap, fail, yawning radical (no. 76)",
+    "example": [
+      "欠陥 けっかん defect, fault, deficiency (n)",
+      "欠席 けっせき absence, non-attendance (n, vs)",
+      "欠点 けってん faults, defect, weakness (n)",
+      "欠如 けつじょ lack, privation, deficiency (n, vs)",
+      "欠乏 けつぼう want, shortage, famine (n, vs)"
+    ]
+  },
+  "次": {
+    "onyomi": "ジ, シ",
+    "kunyomi": "つ.ぐ, つぎ",
+    "english": "next, order, sequence",
+    "example": [
+      "月次 げつじ every month, trite, common (adj-na, n, adj-na, n)",
+      "次いで ついで next, secondly, subsequently (adv, conjunction)",
+      "次ぐ つぐ to rank next to, to come after (v5g, intransitive verb)",
+      "次回 じかい next time (occasion) (n-adv, n-t)",
+      "次元 じげん dimension, perspective, point of reference, level (of something) (n)"
+    ]
+  },
+  "歯": {
+    "onyomi": "シ",
+    "kunyomi": "よわい, は, よわ.い, よわい.する",
+    "english": "tooth, cog",
+    "example": [
+      "歯 は tooth (n)",
+      "歯ブラシ はブラシ toothbrush (n)",
+      "歯医者 はいしゃ dentist (n)",
+      "歯科 しか dentistry (n)",
+      "歯止め はどめ brake (n, vs)"
+    ]
+  },
+  "歴": {
+    "onyomi": "レキ, レッキ",
+    "kunyomi": "なし",
+    "english": "curriculum, continuation, passage of time",
+    "example": [
+      "学歴 がくれき academic background (n)",
+      "歴る へる to pass, to elapse, to experience (Ichidan verb, vt)",
+      "経歴 けいれき personal history, career (n, vs)",
+      "履歴 りれき personal history, background, career, log (n)",
+      "履歴書 りれきしょ personal history, curriculum vitae, resume (n)"
+    ]
+  },
+  "残": {
+    "onyomi": "ザン, サン",
+    "kunyomi": "のこ.る, のこ.す, そこな.う, のこ.り",
+    "english": "remainder, leftover, balance",
+    "example": [
+      "残り のこり remnant, residue, remaining, left-over (n, adj-no)",
+      "残業 ざんぎょう overtime (work) (n, vs)",
+      "残高 ざんだか (bank) balance, remainder (n)",
+      "残酷 ざんこく cruelty, harshness (adj-na, n)",
+      "残暑 ざんしょ lingering summer heat (n)"
+    ]
+  },
+  "殺": {
+    "onyomi": "サツ, サイ, セツ",
+    "kunyomi": "ころ.す, -ごろ.し, そ.ぐ",
+    "english": "kill, murder, butcher, slice off, split, diminish, reduce, spoil",
+    "example": [
+      "暗殺 あんさつ assassination (n, vs)",
+      "虐殺 ぎゃくさつ atrocity, massive killing (n, vs)",
+      "殺す ころす to kill (v5s, vt)",
+      "殺人 さつじん murder (n)",
+      "殺到 さっとう rush, flood (n, vs)"
+    ]
+  },
+  "毒": {
+    "onyomi": "ドク",
+    "kunyomi": "なし",
+    "english": "poison, virus, venom, germ, harm, injury, spite",
+    "example": [
+      "気の毒 きのどく pitiful, (a) pity (adj-na, n)",
+      "消毒 しょうどく disinfection, sterilization, sterilisation (n, vs)",
+      "中毒 ちゅうどく poisoning, addiction (n, vs, n-suf)",
+      "毒 どく poison, toxicant (n)",
+      "毒薬 どくやく poison (n)"
+    ]
+  },
+  "毛": {
+    "onyomi": "モウ",
+    "kunyomi": "け",
+    "english": "fur, hair, feather, down",
+    "example": [
+      "髪の毛 かみのけ hair (head) (n)",
+      "不毛 ふもう sterile, barren, unproductive, sour (adj-na, n, adj-no)",
+      "毛 け hair, fur (n)",
+      "毛糸 けいと knitting wool (n)",
+      "毛皮 もうひ fur, skin, pelt (n)"
+    ]
+  },
+  "氏": {
+    "onyomi": "シ",
+    "kunyomi": "うじ, -うじ",
+    "english": "family name, surname, clan",
+    "example": ["氏名 しめい full name, identity (n)"]
+  },
+  "氷": {
+    "onyomi": "ヒョウ",
+    "kunyomi": "こおり, ひ, こお.る",
+    "english": "icicle, ice, hail, freeze, congeal",
+    "example": [
+      "氷山 ひょうざん iceberg (n)",
+      "氷る こおる to freeze, to be frozen over, to congeal (v5r, intransitive verb)"
+    ]
   }
 }
