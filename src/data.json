@@ -2070,5 +2070,1889 @@
       "氷山 ひょうざん iceberg (n)",
       "氷る こおる to freeze, to be frozen over, to congeal (v5r, intransitive verb)"
     ]
+  },
+  "求": {
+    "onyomi": "キュウ, グ",
+    "kunyomi": "もと.める",
+    "english": "request, want, wish for, require, demand  ",
+    "example": [
+      "求人 きゅうじん offer of job (situation) (n, vs)",
+      "請求 せいきゅう claim, demand, charge, application, request, billing (for a service) (n, vs)",
+      "追求 ついきゅう pursuing (goal), pursuit, seeking, search, to pursue (eg goal), to seek (n, vs)",
+      "要求 ようきゅう demand, firm request, requisition (n, vs)",
+      "欲求 よっきゅう desire (n, vs)"
+    ]
+  },
+  "決": {
+    "onyomi": "ケツ",
+    "kunyomi": "き.める, -ぎ.め, き.まる, さ.く",
+    "english": "decide, fix, agree upon, appoint",
+    "example": [
+      "可決 かけつ approval, adoption (eg motion, bill), passage (n, vs)",
+      "解決 かいけつ settlement, solution, resolution (n, vs)",
+      "議決 ぎけつ resolution, decision, vote (n, vs)",
+      "決して けして never, by no means (adv)",
+      "決める きめる to decide (Ichidan verb, vt)"
+    ]
+  },
+  "汽": {
+    "onyomi": "キ",
+    "kunyomi": "なし",
+    "english": "vapor, steam",
+    "example": [
+      "汽車 きしゃ train (steam) (n)",
+      "汽船 きせん steamship, steamboat, steamer (n)",
+      "汽笛 きてき steam whistle (n)"
+    ]
+  },
+  "油": {
+    "onyomi": "ユ, ユウ",
+    "kunyomi": "あぶら",
+    "english": "oil, fat",
+    "example": [
+      "原油 げんゆ crude oil (n)",
+      "石油 せきゆ oil, petroleum, kerosene (n)",
+      "灯油 とうゆ lamp oil, kerosene (n)",
+      "油 あぶら oil (n)",
+      "油絵 あぶらえ oil painting (n)"
+    ]
+  },
+  "治": {
+    "onyomi": "ジ, チ",
+    "kunyomi": "おさ.める, おさ.まる, なお.る, なお.す",
+    "english": "reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve",
+    "example": [
+      "治まる おさまる to be at peace, to clamp down, to lessen (storm, terror, anger) (v5r, intransitive verb)",
+      "治める おさめる to govern, to manage, to subdue (Ichidan verb, vt)",
+      "治安 ちあん public order (n)",
+      "治療 ちりょう medical treatment, cure (n, vs)",
+      "自治 じち self-government, autonomy (n)"
+    ]
+  },
+  "法": {
+    "onyomi": "ホウ, ハッ, ホッ, フラン",
+    "kunyomi": "のり",
+    "english": "method, law, rule, principle, model, system",
+    "example": [
+      "違法 いほう illegal, illegality, unlawfulness (adj-na, n)",
+      "憲法 けんぽう constitution (n)",
+      "合法 ごうほう legal, lawful, legality (adj-na, n)",
+      "司法 しほう administration of justice (n)",
+      "寸法 すんぽう measurement, size, extent, dimension (n)"
+    ]
+  },
+  "波": {
+    "onyomi": "ハ",
+    "kunyomi": "なみ",
+    "english": "waves, billows, Poland",
+    "example": [
+      "寒波 かんぱ cold wave (n)",
+      "電波 でんぱ electro-magnetic wave, radio wave, nonsense (n, n, adj-na)",
+      "波長 はちょう wavelength (n)",
+      "波瀾 はらん troubles, ups and downs, stormy, uproarious (ie relationship) (n)"
+    ]
+  },
+  "泣": {
+    "onyomi": "キュウ",
+    "kunyomi": "な.く",
+    "english": "cry, weep, moan",
+    "example": ["泣き声 なきごえ cry, crying voice (n, vs)"]
+  },
+  "泳": {
+    "onyomi": "エイ",
+    "kunyomi": "およ.ぐ",
+    "english": "swim",
+    "example": ["水泳 すいえい swimming (n, vs)"]
+  },
+  "活": {
+    "onyomi": "カツ",
+    "kunyomi": "い.きる, い.かす, い.ける",
+    "english": "lively, resuscitation, being helped, living",
+    "example": [
+      "活気 かっき energy, liveliness (n)",
+      "活字 かつじ printing type (n)",
+      "活動 かつどう action, activity (n, vs)",
+      "活溌 かっぱつ vigor, vigour, active, lively (adj-na, n)",
+      "活躍 かつやく activity (esp. energetic), great efforts, conspicuous service, to flourish, to participate actively, to play an active role (n, vs)"
+    ]
+  },
+  "流": {
+    "onyomi": "リュウ, ル",
+    "kunyomi": "なが.れる, なが.れ, なが.す, -なが.す",
+    "english": "current, a sink, flow, forfeit",
+    "example": [
+      "一流 いちりゅう first-class, top grade, school (of art), foremost, top-notch, unique (n)",
+      "下流 かりゅう downstream, lower reaches of a river, lower classes (n)",
+      "海流 かいりゅう ocean current (n)",
+      "交流 こうりゅう intercourse, (cultural) exchange, intermingling, alternating current (n, vs)",
+      "三流 さんりゅう 3rd rate (n)"
+    ]
+  },
+  "浅": {
+    "onyomi": "セン",
+    "kunyomi": "あさ.い",
+    "english": "shallow, superficial, frivolous, wretched, shameful",
+    "example": ["浅い あさい shallow, superficial (adj))"]
+  },
+  "浴": {
+    "onyomi": "ヨク",
+    "kunyomi": "あ.びる, あ.びせる",
+    "english": "bathe, be favored with, bask in",
+    "example": [
+      "海水浴 かいすいよく sea bathing, seawater bath (n)",
+      "日光浴 にっこうよく sunbathing (n, vs)",
+      "入浴 にゅうよく bathe, bathing (n, vs)",
+      "浴びせる あびせる to pour on (Ichidan verb, vt)",
+      "浴びる あびる to bathe, to bask in the sun, to shower (Ichidan verb, vt)"
+    ]
+  },
+  "消": {
+    "onyomi": "ショウ",
+    "kunyomi": "き.える, け.す",
+    "english": "extinguish, blow out, turn off, neutralize, cancel",
+    "example": [
+      "解消 かいしょう cancellation, liquidation, resolution, reduction (eg of stress) (n, vs)",
+      "取消す とりけす to cancel, to revoke (v5s, vt)",
+      "消える きえる to go out, to vanish, to disappear (Ichidan verb, intransitive verb)",
+      "消しゴム けしゴム eraser, India rubber (n)",
+      "消す けす to erase, to delete, to cross out, to turn off power, to extinguish, to put out, to bump off (v5s, vt)"
+    ]
+  },
+  "深": {
+    "onyomi": "シン",
+    "kunyomi": "ふか.い, -ぶか.い, ふか.まる, ふか.める, み-",
+    "english": "deep, heighten, intensify, strengthen",
+    "example": [
+      "深ける ふける to get late, to advance, to wear on (Ichidan verb, intransitive verb)",
+      "深い ふかい deep, profound, thick, close (adj)",
+      "深まる ふかまる to deepen, to heighten, to intensify (v5r, intransitive verb)",
+      "深味 ふかみ depth, deep place (n)",
+      "深める ふかめる to deepen, to heighten, to intensify (Ichidan verb, vt)"
+    ]
+  },
+  "清": {
+    "onyomi": "セイ, ショウ, シン",
+    "kunyomi": "きよ.い, きよ.まる, きよ.める",
+    "english": "pure, purify, cleanse, exorcise, Manchu dynasty",
+    "example": [
+      "清む すむ to clear (eg weather), to become transparent (v5m, intransitive verb)",
+      "清らか きよらか clean, pure, chaste (adj-na, n)",
+      "清潔 せいけつ clean (adj-na, n)",
+      "清算 せいさん liquidation, settlement (n, vs)",
+      "清掃 せいそう cleaning (n, vs)"
+    ]
+  },
+  "温": {
+    "onyomi": "オン",
+    "kunyomi": "あたた.か, あたた.かい, あたた.まる, あたた.める, ぬく",
+    "english": "warm",
+    "example": [
+      "温室 おんしつ greenhouse, hothouse, conservatory, glasshouse (n)",
+      "温泉 おんせん spa, hot spring, onsen (n)",
+      "温帯 おんたい temperate zone (n)",
+      "温暖 おんだん warmth (adj-na, n)",
+      "温度 おんど temperature (n)"
+    ]
+  },
+  "港": {
+    "onyomi": "コウ",
+    "kunyomi": "みなと",
+    "english": "harbor",
+    "example": ["空港 くうこう airport (n)"]
+  },
+  "湖": {
+    "onyomi": "コ",
+    "kunyomi": "みずうみ",
+    "english": "lake",
+    "example": ["湖 みずうみ lake (n)"]
+  },
+  "湯": {
+    "onyomi": "トウ",
+    "kunyomi": "ゆ",
+    "english": "hot water, bath, hot spring",
+    "example": [
+      "銭湯 せんとう bath-house, public bath (n)",
+      "湯 ゆ hot water (n)",
+      "湯気 ゆげ steam, vapour, vapor (n)",
+      "熱湯 ねっとう boiling water (n)"
+    ]
+  },
+  "満": {
+    "onyomi": "マン, バン",
+    "kunyomi": "み.ちる, み.つ, み.たす",
+    "english": "full, enough, pride, satisfy",
+    "example": [
+      "円満 えんまん perfection, harmony, peace, smoothness, completeness, satisfaction, integrity (adj-na, n)",
+      "肥満 ひまん corpulence, fatness, obesity (n, vs)",
+      "不満 ふまん dissatisfaction, displeasure, discontent, complaints, unhappiness, disgruntled (adj-na, n)",
+      "満員 まんいん full house, no vacancy, sold out, standing room only, full (of people), crowded (n)",
+      "満月 まんげつ full moon (n)"
+    ]
+  },
+  "漁": {
+    "onyomi": "ギョ, リョウ",
+    "kunyomi": "あさ.る",
+    "english": "fishing, fishery",
+    "example": [
+      "漁業 ぎょぎょう fishing (industry) (n)",
+      "漁師 りょうし fisherman (n)",
+      "漁船 ぎょせん fishing boat (n)",
+      "漁村 ぎょそん fishing village (n)"
+    ]
+  },
+  "灯": {
+    "onyomi": "トウ",
+    "kunyomi": "ひ, ほ-, ともしび, とも.す, あかり",
+    "english": "lamp, a light, light, counter for lights",
+    "example": [
+      "灯台 とうだい lighthouse (n)",
+      "灯油 とうゆ lamp oil, kerosene (n)",
+      "灯かり あかり light, brightness, glow, gleam, light, lights, lamp, lamplight (n)"
+    ]
+  },
+  "炭": {
+    "onyomi": "タン",
+    "kunyomi": "すみ",
+    "english": "charcoal, coal",
+    "example": [
+      "石炭 せきたん coal (n)",
+      "炭 すみ charcoal (n)",
+      "炭酸 たんさん carbonic acid (n)"
+    ]
+  },
+  "点": {
+    "onyomi": "テン",
+    "kunyomi": "つ.ける, つ.く, た.てる, さ.す, とぼ.す, とも.す, ぼち",
+    "english": "spot, point, mark, speck, decimal point",
+    "example": [
+      "句読点 くとうてん punctuation mark(s) (n)",
+      "欠点 けってん faults, defect, weakness (n)",
+      "原点 げんてん origin (coordinates), starting point (n)",
+      "減点 げんてん subtract, give a demerit (n, vs)",
+      "採点 さいてん marking, grading, looking over (n, vs)"
+    ]
+  },
+  "無": {
+    "onyomi": "ム, ブ",
+    "kunyomi": "な.い",
+    "english": "nothingness, none, ain't, nothing, nil, not",
+    "example": [
+      "果てし無い はてしない endless, boundless, everlasting (adj)",
+      "間も無く まもなく soon, before long, in a short time, (after verb) lacking time to ..., without time to ... (adv)",
+      "虚無 きょむ nihility, nothingness (n)",
+      "仕方が無い しかたがない it can't be helped, it's inevitable, it's no use, can't stand it, being impatient, being annoyed (exp, adj)",
+      "台無し だいなし mess, spoiled, spoilt, (come to) nothing (adj-na, n)"
+    ]
+  },
+  "然": {
+    "onyomi": "ゼン, ネン",
+    "kunyomi": "しか, しか.り, しか.し, さ",
+    "english": "sort of thing, so, if so, in that case, well  ",
+    "example": [
+      "依然 いぜん still, as yet, as it has been (`taru' adjective, adverb taking the `to' particle, adv)",
+      "偶然 ぐうぜん (by) chance, unexpectedly, suddenly, accident, fortuity (adj-na, adj-no, n-adv, n)",
+      "公然 こうぜん open (eg secret), public, official, overt (adj-no, `taru' adjective, adverb taking the `to' particle)",
+      "自然 しぜん nature, spontaneity, naturally, spontaneously (adj-na, n, adv, adverb taking the `to' particle)",
+      "自然科学 しぜんかがく natural science (n)"
+    ]
+  },
+  "焼": {
+    "onyomi": "ショウ",
+    "kunyomi": "や.く, や.き, や.き-, -や.き, や.ける",
+    "english": "bake, burning",
+    "example": [
+      "焼そば やきそば fried soba (n)",
+      "焼酎 しょうちゅう shochu (Japanese liquor similar to vodka) (n)",
+      "燃焼 ねんしょう burning, combustion (n, vs)",
+      "夕焼け ゆうやけ sunset (n)",
+      "日焼 ひやけ sunburn, suntan (n, vs)"
+    ]
+  },
+  "照": {
+    "onyomi": "ショウ",
+    "kunyomi": "て.る, て.らす, て.れる",
+    "english": "illuminate, shine, compare, bashful",
+    "example": [
+      "参照 さんしょう reference, bibliographical reference, consultation, browsing (eg when selecting a file to upload on a computer) (n, vs)",
+      "照らす てらす to shine on, to illuminate (v5s, vt)",
+      "照る てる to shine (v5r, intransitive verb)",
+      "照会 しょうかい inquiry, enquiry, query, reference (n, vs)",
+      "照明 しょうめい illumination (n, vs)"
+    ]
+  },
+  "熱": {
+    "onyomi": "ネツ",
+    "kunyomi": "あつ.い",
+    "english": "heat, temperature, fever, mania, passion",
+    "example": [
+      "解熱 げねつ alleviation of fever (n, vs)",
+      "光熱費 こうねつひ cost of fuel and light (n)",
+      "高熱 こうねつ high fever, pyro- (n, prefix)",
+      "情熱 じょうねつ passion, enthusiasm, zeal (adj-na, n)",
+      "熱 ねつ fever, temperature (n, n-suf)"
+    ]
+  },
+  "牧": {
+    "onyomi": "ボク",
+    "kunyomi": "まき",
+    "english": "breed, care for, shepherd, feed, pasture",
+    "example": [
+      "牧畜 ぼくちく stock-farming (n)",
+      "牧場 まきば farm (livestock), ranch (US), station (Aus, NZ), pasture land, meadow, grazing land (n)"
+    ]
+  },
+  "玉": {
+    "onyomi": "ギョク",
+    "kunyomi": "たま, たま-, -だま",
+    "english": "jewel, ball",
+    "example": [
+      "玉 たま ball, sphere, coin, jewel, pearl, testicles, staple (for a stapler), person (when commenting on their nature), character (n, n-suf, n, n)",
+      "御年玉 おとしだま New Year's gift (n)",
+      "目玉 めだま eyeball, loss leader, drawcard (n)",
+      "玉子 たまご eggs, egg, spawn, roe, cooked (usually boiled) hen egg, (an expert) in the making (n, n, n)",
+      "目玉商品 めだましょうひん bargain goods, eye-catching goods, featured product, loss leader (n)"
+    ]
+  },
+  "王": {
+    "onyomi": "オウ, -ノウ",
+    "kunyomi": "たま, たま-, -だま",
+    "english": "king, rule, magnate",
+    "example": [
+      "王国 おうこく kingdom, monarchy (n)",
+      "王子 おうじ prince (n)",
+      "王者 おうじゃ king, monarch, ruler (n)",
+      "王女 おうじょ princess (n)",
+      "王さま おうさま king (n)"
+    ]
+  },
+  "球": {
+    "onyomi": "キュウ",
+    "kunyomi": "たま",
+    "english": "ball, sphere",
+    "example": [
+      "球 たま globe, sphere, ball (n)",
+      "地球 ちきゅう the earth (n, adj-no)",
+      "電球 でんきゅう light bulb (n)",
+      "野球 やきゅう baseball (n)"
+    ]
+  },
+  "由": {
+    "onyomi": "ユ, ユウ, ユイ",
+    "kunyomi": "よし, よ.る",
+    "english": "wherefore, a reason",
+    "example": [
+      "経由 けいゆ go by the way, via (n, vs)",
+      "自由 じゆう freedom, liberty, as it pleases you (exp, adj-na, n)",
+      "不自由 ふじゆう discomfort, inconvenience, poverty, want, destitution, disability (adj-na, n)",
+      "由 よし reason, significance, cause (n)",
+      "由緒 ゆいしょ history, pedigree, lineage (n)"
+    ]
+  },
+  "申": {
+    "onyomi": "シン",
+    "kunyomi": "もう.す, もう.し-, さる",
+    "english": "have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac",
+    "example": [
+      "申込む もうしこむ to apply for, to make an application, to propose (marriage), to challenge, to request (an interview), to book (v5m, vt)",
+      "申し出る もうしでる to report to, to tell, to suggest, to submit, to request, to make an offer, to come forward with information (Ichidan verb, vt)",
+      "申しあげる もうしあげる to say, to tell, to state, to do for (Ichidan verb, vt, auxiliary verb)",
+      "申し訳 もうしわけ apology, excuse (n)",
+      "申す もうす to be called, to say (v5s, vt)"
+    ]
+  },
+  "畑": {
+    "onyomi": "なし",
+    "kunyomi": "はた, はたけ, -ばたけ",
+    "english": "farm, field, garden, one's specialty, (kokuji)",
+    "example": ["なし"]
+  },
+  "番": {
+    "onyomi": "バン",
+    "kunyomi": "つが.い",
+    "english": "turn, number in a series",
+    "example": [
+      "一番 いちばん best, first, number one, game, round, bout, fall, event (in a meet) (n-adv)",
+      "交番 こうばん police box, alternation, alternating (eg current) (n, vs, n, adj-f)",
+      "順番 じゅんばん turn (in line), order of things, sequential order (n)",
+      "当番 とうばん being on duty (n)",
+      "番号 ばんごう number, series of digits (n)"
+    ]
+  },
+  "登": {
+    "onyomi": "トウ, ト, ドウ, ショウ, チョウ",
+    "kunyomi": "のぼ.る, あ.がる",
+    "english": "ascend, climb up",
+    "example": [
+      "山登り やまのぼり mountain climbing, mountaineering (n)",
+      "登記 とうき registry, registration (n, vs)",
+      "登校 とうこう attendance (at school) (n, vs)",
+      "登山 とざん mountain climbing (n, vs)",
+      "登場 とうじょう entry (on stage), appearance (on screen), entrance, introduction (into a market) (n, vs)"
+    ]
+  },
+  "的": {
+    "onyomi": "テキ",
+    "kunyomi": "まと",
+    "english": "bull's eye, mark, target, object, adjective ending",
+    "example": [
+      "楽観的 らっかんてき optimistic, hopeful (adj-na)",
+      "楽天的 らくてんてき optimistic (adj-na, n)",
+      "客観的 きゃっかんてき objective (adj-na)",
+      "adhere, attach, refer to, append",
+      "形式的 けいしきてき formal (adj-na)"
+    ]
+  },
+  "皮": {
+    "onyomi": "ヒ",
+    "kunyomi": "かわ",
+    "english": "pelt, skin, hide, leather, skin radical (no. 107)",
+    "example": [
+      "皮肉 ひにく cynicism, sarcasm, irony, satire (adj-na, n)",
+      "皮フ ひフ skin (n)",
+      "毛皮 もうひ fur, skin, pelt (n)"
+    ]
+  },
+  "皿": {
+    "onyomi": "ベイ",
+    "kunyomi": "さら",
+    "english": "dish, a helping, plate",
+    "example": ["灰皿 はいざら ashtray (n)"]
+  },
+  "直": {
+    "onyomi": "チョク, ジキ, ジカ",
+    "kunyomi": "ただ.ちに, なお.す, -なお.す, なお.る, なお.き, す.ぐ",
+    "english": "straightaway, honesty, frankness, fix, repair",
+    "example": [
+      "見直す みなおす to look again, to get a better opinion of (v5s)",
+      "思い直す おもいなおす to re-think, to think back upon, to change one's mind (v5s, vt)",
+      "持直す もちなおす to recover, to rally, to improve, to pick up (v5s, vt)",
+      "書き直す かきなおす to write out, to make a fair copy, to rewrite (v5s, vt)",
+      "垂直 すいちょく vertical, perpendicular (adj-na, n)"
+    ]
+  },
+  "相": {
+    "onyomi": "ソウ, ショウ",
+    "kunyomi": "あい-",
+    "english": "inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy",
+    "example": [
+      "外相 がいしょう Foreign Minister (n)",
+      "相図 あいず sign, signal (n, vs)",
+      "首相 しゅしょう Prime Minister, Chancellor (Germany, Austria, etc.), Premier (n)",
+      "真相 しんそう truth, real situation (n)",
+      "人相 にんそう physiognomy, looks, countenance (n)"
+    ]
+  },
+  "省": {
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "かえり.みる, はぶ.く",
+    "english": "focus, government ministry, conserve",
+    "example": [
+      "外務省 がいむしょう Ministry of Foreign Affairs (n)",
+      "帰省 きせい homecoming, returning home (n, vs)",
+      "省みる かえりみる to look back (eg over shoulder or at the past), to turn around, to review, to reflect, to reconsider, to consider (usu. used in negative), to concern oneself about (Ichidan verb, vt)",
+      "省略 しょうりゃく omission, abbreviation, abridgment, abridgement (n, vs)",
+      "大蔵省 おおくらしょう (former) Ministry of Finance (succeeded by zaimushou in 2000) (n)"
+    ]
+  },
+  "矢": {
+    "onyomi": "シ",
+    "kunyomi": "や",
+    "english": "dart, arrow",
+    "example": ["なし"]
+  },
+  "石": {
+    "onyomi": "セキ, シャク, コク",
+    "kunyomi": "いし",
+    "english": "stone",
+    "example": [
+      "化石 かせき fossil, petrifaction, fossilization, fossilisation (n, vs)",
+      "磁石 じしゃく magnet (n)",
+      "石けん せっけん soap (n)",
+      "石炭 せきたん coal (n)",
+      "石油 せきゆ oil, petroleum, kerosene (n)"
+    ]
+  },
+  "礼": {
+    "onyomi": "レイ, ライ",
+    "kunyomi": "なし",
+    "english": "salute, bow, ceremony, thanks, remuneration",
+    "example": [
+      "儀礼 ぎれい etiquette, courtesy (n)",
+      "御礼 おんれい thanking, expression of gratitude (n)",
+      "失礼 しつれい discourtesy, impoliteness, Excuse me, Goodbye, to leave, to be rude (n, vs, adj-na, exp, vs, vs)",
+      "朝礼 ちょうれい morning assembly (company), pep talk (n)",
+      "無礼 ぶれい impolite, rude (adj-na, n)"
+    ]
+  },
+  "祝": {
+    "onyomi": "シュク, シュウ",
+    "kunyomi": "いわ.う",
+    "english": "celebrate, congratulate",
+    "example": [
+      "祝い いわい celebration, festival (n)",
+      "祝う いわう to congratulate, to celebrate (v5s, vt)",
+      "祝電 しゅくでん congratulatory telegram (n)",
+      "祝日 しゅくじつ national holiday (n)",
+      "祝福 しゅくふく blessing (n, vs)"
+    ]
+  },
+  "神": {
+    "onyomi": "シン, ジン",
+    "kunyomi": "かみ, かん-, こう-",
+    "english": "gods, mind, soul",
+    "example": [
+      "安神 あんしん relief, peace of mind (adj-na, n, vs)",
+      "神興 みこし portable shrine (carried in festivals) (n)",
+      "神 かみ god (n)",
+      "神経 しんけい nerve, sensitivity (n)",
+      "神社 じんじゃ Shinto shrine (n)"
+    ]
+  },
+  "票": {
+    "onyomi": "ヒョウ",
+    "kunyomi": "なし",
+    "english": "ballot, label, ticket, sign",
+    "example": [
+      "投票 とうひょう voting, poll (n, vs)",
+      "票 ひょう label, ballot, ticket, sign (n, n-suf)"
+    ]
+  },
+  "祭": {
+    "onyomi": "サイ",
+    "kunyomi": "まつ.る, まつ.り, まつり",
+    "english": "ritual, offer prayers, celebrate, deify, enshrine, worship",
+    "example": [
+      "冠婚葬祭 かんこんそうさい important ceremonial occasions in family relationships (n)",
+      "祭り まつり festival, feast (n)"
+    ]
+  },
+  "福": {
+    "onyomi": "フク",
+    "kunyomi": "なし",
+    "english": "blessing, fortune, luck, wealth",
+    "example": [
+      "幸福 こうふく happiness, blessedness (adj-na, n)",
+      "祝福 しゅくふく blessing (n, vs)",
+      "福祉 ふくし welfare, social security, social service, well-being (n)",
+      "裕福 ゆうふく affluence, prosperity (adj-na, n)"
+    ]
+  },
+  "科": {
+    "onyomi": "カ",
+    "kunyomi": "なし",
+    "english": "department, course, section",
+    "example": [
+      "科 か department, section, (taxonomical) family (n, n-suf)",
+      "科学 かがく science (n)",
+      "科学者 かがくしゃ scientist (n)",
+      "外科 げか surgical department (n)",
+      "学科 がっか study subject, course of study (n)"
+    ]
+  },
+  "秒": {
+    "onyomi": "ビョウ",
+    "kunyomi": "なし",
+    "english": "second (1/60 minute)",
+    "example": [
+      "秒 びょう second (60th min) (n)",
+      "秒読み びょうよみ countdown (n)"
+    ]
+  },
+  "種": {
+    "onyomi": "シュ",
+    "kunyomi": "たね, -ぐさ",
+    "english": "species, kind, class, variety, seed",
+    "example": [
+      "一種 ひとくさ species, kind, variety (adv, n)",
+      "種目 しゅもく event, item of business (n)",
+      "種類 しゅるい variety, kind, type, category, counter for different sorts of things (n, counter)",
+      "人種 じんしゅ race (of people) (n)",
+      "品種 ひんしゅ kind (of goods), brand, (taxonomical) form, breed, cultivar (n)"
+    ]
+  },
+  "積": {
+    "onyomi": "セキ",
+    "kunyomi": "つ.む, -づ.み, つ.もる, つ.もり",
+    "english": "volume, product (x*y), acreage, contents, pile up, stack, load, amass",
+    "example": [
+      "積み立て つみたて savings (n)",
+      "積む つむ to pile up, to stack, to load (car, ship, etc.), to pack (v5m)",
+      "積もり つもり intention, plan, conviction, belief (n)",
+      "積る つもる to pile up, to accumulate, to estimate (v5r)",
+      "積極的 せっきょくてき positive, active, proactive (adj-na)"
+    ]
+  },
+  "章": {
+    "onyomi": "ショウ",
+    "kunyomi": "なし",
+    "english": "badge, chapter, composition, poem, design",
+    "example": [
+      "章 しょう chapter, section, medal (n)",
+      "文章 ぶんしょう sentence, article (n)"
+    ]
+  },
+  "童": {
+    "onyomi": "ドウ",
+    "kunyomi": "わらべ",
+    "english": "juvenile, child",
+    "example": [
+      "児童 じどう children, juvenile (n)",
+      "童話 どうわ fairy-tale (n)"
+    ]
+  },
+  "競": {
+    "onyomi": "キョウ, ケイ",
+    "kunyomi": "きそ.う, せ.る",
+    "english": "emulate, compete with, bid, sell at auction, bout, contest, race",
+    "example": [
+      "競う きそう to compete with, to emulate (v5s, intransitive verb)",
+      "競技 きょうぎ game, match, contest (n, vs)",
+      "競争 きょうそう competition, contest, to compete (n, vs)",
+      "競馬 けいば horse racing (n)",
+      "競べる くらべる to compare, to make a comparison, to compete, to vie (Ichidan verb, vt)"
+    ]
+  },
+  "竹": {
+    "onyomi": "チク",
+    "kunyomi": "たけ",
+    "english": "bamboo",
+    "example": ["竹 たけ bamboo, middle (of a three-tier ranking system) (n)"]
+  },
+  "笑": {
+    "onyomi": "ショウ",
+    "kunyomi": "わら.う, え.む",
+    "english": "laugh",
+    "example": [
+      "苦笑い にがわらい bitter smile (n, vs)",
+      "笑い声 わらいごえ laughter (n)",
+      "笑顔 えがお smiling face, smile (n, vs)",
+      "微笑 びしょう smile (n, vs)"
+    ]
+  },
+  "笛": {
+    "onyomi": "テキ",
+    "kunyomi": "ふえ",
+    "english": "flute, clarinet, pipe, whistle, bagpipe, piccolo",
+    "example": [
+      "汽笛 きてき steam whistle (n)",
+      "口笛 くちぶえ whistle (n)",
+      "笛 ふえ flute, pipe, whistle (n)"
+    ]
+  },
+  "第": {
+    "onyomi": "ダイ, テイ",
+    "kunyomi": "なし",
+    "english": "No., residence",
+    "example": [
+      "次第 しだい dependent upon, as soon as, immediately (upon), circumstances, order, precedence, program, programme, agenda (n-adv, n, n, n)",
+      "次第に しだいに gradually (progress into a state), in sequence, in order, in turn (adv)",
+      "第宅 ていたく mansion, residence (n)",
+      "落第 らくだい failure, dropping out of a class (n, vs)"
+    ]
+  },
+  "筆": {
+    "onyomi": "ヒツ",
+    "kunyomi": "ふで",
+    "english": "writing brush, writing, painting brush, handwriting",
+    "example": [
+      "鉛筆 えんぴつ pencil (n)",
+      "執筆 しっぴつ writing (n, vs)",
+      "随筆 ずいひつ essays, miscellaneous writings (n)",
+      "筆 ふで writing brush (n)",
+      "筆記 ひっき (taking) notes, copying (n, vs)"
+    ]
+  },
+  "等": {
+    "onyomi": "トウ",
+    "kunyomi": "ひと.しい, など, -ら",
+    "english": "etc., and so forth, class (first), quality, equal, similar",
+    "example": [
+      "１等 いっとう first-class, first-rank, A1, the most, the best (n)",
+      "何等 なにら whatever, what, what sort of, any kind of, nothing whatever (with neg. verb) (adv, n)",
+      "均等 きんとう equality, uniformity, evenness (adj-na, n)",
+      "高等 こうとう high class, high grade (adj-na, n)",
+      "高等学校 こうとうがっこう senior high school (n)"
+    ]
+  },
+  "算": {
+    "onyomi": "サン",
+    "kunyomi": "そろ",
+    "english": "calculate, divining, number, abacus, probability",
+    "example": [
+      "換算 かんざん conversion, change, exchange (n, vs)",
+      "計算 けいさん calculation, reckoning, count, forecast (n, vs)",
+      "決算 けっさん balance sheet, settlement of accounts (n)",
+      "採算 さいさん profit (n)",
+      "算数 さんすう arithmetic (n)"
+    ]
+  },
+  "管": {
+    "onyomi": "カン",
+    "kunyomi": "くだ",
+    "english": "pipe, tube, wind instrument, drunken talk",
+    "example": [
+      "管轄 かんかつ jurisdiction, control (n, vs)",
+      "管理 かんり control, management (eg of a business) (n, vs)",
+      "血管 けっかん blood vessel (n)",
+      "保管 ほかん charge, custody, safekeeping, deposit, storage (n, vs)",
+      "管 くだ pipe, tube (n, n-suf)"
+    ]
+  },
+  "箱": {
+    "onyomi": "ソウ",
+    "kunyomi": "はこ",
+    "english": "box, chest, case, bin, railway car",
+    "example": ["なし"]
+  },
+  "節": {
+    "onyomi": "セツ, セチ",
+    "kunyomi": "ふし, -ぶし, のっと",
+    "english": "node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody",
+    "example": [
+      "関節 かんせつ joints (knee joint, elbow joint, etc.) (n)",
+      "季節 きせつ season (n)",
+      "使節 しせつ envoy, embassy, mission, delegate (n)",
+      "節 せつ occasion, time, section (of a literary work), verse, stanza, node (of a plant stem), clause, (taxonomical) section (n)",
+      "節約 せつやく economising, saving (n, vs)"
+    ]
+  },
+  "米": {
+    "onyomi": "ベイ, マイ, メエトル",
+    "kunyomi": "こめ, よね",
+    "english": "rice, USA, metre",
+    "example": [
+      "新米 しんまい new rice, novice, beginner, tyro, newcomer, newbie (exp, n)",
+      "日米 にちべい Japan-America (n)",
+      "米価 べいか rice price (n)"
+    ]
+  },
+  "粉": {
+    "onyomi": "フン",
+    "kunyomi": "デシメートル, こ, こな",
+    "english": "flour, powder, dust",
+    "example": [
+      "小麦粉 こむぎこ wheat flour (n)",
+      "粉 こ flour, meal, powder (n)",
+      "粉末 ふんまつ fine powder (n)"
+    ]
+  },
+  "糸": {
+    "onyomi": "シ",
+    "kunyomi": "いと",
+    "english": "thread",
+    "example": [
+      "糸 いと thread, yarn, string (n, n-suf)",
+      "毛糸 けいと knitting wool (n)",
+      "繭糸 きぬいと silk thread (n)"
+    ]
+  },
+  "紀": {
+    "onyomi": "キ",
+    "kunyomi": "なし",
+    "english": "chronicle, account, narrative, history, annals, geologic period",
+    "example": [
+      "紀元 きげん era, AD (Christian era) (n)",
+      "紀律 きりつ order, observance, discipline, rules, law, regulations (n)",
+      "世紀 せいき century, era (n)"
+    ]
+  },
+  "約": {
+    "onyomi": "ヤク",
+    "kunyomi": "なし",
+    "english": "promise, approximately, shrink",
+    "example": [
+      "解約 かいやく cancellation of contract (n, vs)",
+      "契約 けいやく contract, compact, agreement (n, vs)",
+      "倹約 けんやく thrift, economy, frugality (adj-na, n, vs)",
+      "公約 こうやく public commitment or promise (n, vs)",
+      "婚約 こんやく engagement, betrothal (n, vs)"
+    ]
+  },
+  "級": {
+    "onyomi": "キュウ",
+    "kunyomi": "なし",
+    "english": "class, rank, grade",
+    "example": [
+      "階級 かいきゅう class, rank, grade (n)",
+      "高級 こうきゅう high class, high grade (adj-na, n)",
+      "初級 しょきゅう elementary level (n)",
+      "上級 じょうきゅう advanced level, high grade, senior (n)",
+      "中級 ちゅうきゅう intermediate level (n)"
+    ]
+  },
+  "細": {
+    "onyomi": "サイ",
+    "kunyomi": "ほそ.い, ほそ.る, こま.か, こま.かい",
+    "english": "dainty, get thin, taper, slender, narrow",
+    "example": [
+      "細い ほそい thin, slender, fine (adj)",
+      "細かい こまかい small, fine, minute, minor, trivial, sensitive, attentive (adj)",
+      "細やか ささやか meagre, meager, modest (adj-na)",
+      "細菌 さいきん bacillus, bacterium, germ (n)",
+      "細工 さいく work, craftsmanship, tactics, trick (n, vs)"
+    ]
+  },
+  "組": {
+    "onyomi": "ソ",
+    "kunyomi": "く.む, くみ, -ぐみ",
+    "english": "association, braid, plait, construct, assemble, unite, cooperate, grapple",
+    "example": [
+      "取組む とっくむ to tackle, to wrestle with, to engage in a bout, to come to grips with, to make effort, to strive for (v5m, intransitive verb)",
+      "乗組員 のりくみいん crew (n)",
+      "組込む くみこむ to insert, to include, to cut in (printing) (v5m, vt)",
+      "組み立てる くみたてる to assemble, to set up, to construct (Ichidan verb, vt)",
+      "組む くむ to put together (v5m)"
+    ]
+  },
+  "結": {
+    "onyomi": "ケツ, ケチ",
+    "kunyomi": "むす.ぶ, ゆ.う, ゆ.わえる",
+    "english": "tie, bind, contract, join, organize, do up hair, fasten",
+    "example": [
+      "結び むすび ending, conclusion, union (n)",
+      "結ぶ むすぶ to tie, to bind, to link, to bear (fruit) (v5b)",
+      "結果 けっか result, consequence (n-adv, n-t)",
+      "結核 けっかく tuberculosis, tubercule (n)",
+      "結局 けっきょく after all, eventually (n-adv, n)"
+    ]
+  },
+  "給": {
+    "onyomi": "キュウ",
+    "kunyomi": "たま.う, たも.う, -たま.え",
+    "english": "salary, wage, gift, allow, grant, bestow on",
+    "example": [
+      "給食 きゅうしょく school lunch, providing a meal (n, vs)",
+      "給与 きゅうよ pay, salary, wages, allowance, grant, supply (n, vs)",
+      "給料 きゅうりょう salary, wages (n)",
+      "供給 きょうきゅう supply, provision (n, vs)",
+      "月給 げっきゅう monthly salary (n)"
+    ]
+  },
+  "絵": {
+    "onyomi": "カイ, エ",
+    "kunyomi": "たま.う, たも.う, -たま.え",
+    "english": "picture, drawing, painting, sketch",
+    "example": [
+      "絵具 えのぐ colors, colours, paints (n)",
+      "絵画 かいが picture, painting (n)",
+      "絵本 えほん picture book (n)",
+      "油絵 あぶらえ oil painting (n)",
+      "絵葉書 えはがき picture postcard (n)"
+    ]
+  },
+  "続": {
+    "onyomi": "ゾク, ショク, コウ, キョウ",
+    "kunyomi": "つづ.く, つづ.ける, つぐ.ない",
+    "english": "continue, series, sequel",
+    "example": [
+      "継続 けいぞく continuation (n, vs, adj-no)",
+      "持続 じぞく continuation (n, vs)",
+      "接続 せつぞく connection, attachment, union, join, joint, link, changing trains, conjunction (n, vs)",
+      "相続 そうぞく succession, inheritance (n, vs)",
+      "続出 ぞくしゅつ appearance one after another (n, vs)"
+    ]
+  },
+  "緑": {
+    "onyomi": "リョク, ロク",
+    "kunyomi": "みどり",
+    "english": "green",
+    "example": ["緑 みどり green, greenery (esp. fresh verdure) (n)"]
+  },
+  "線": {
+    "onyomi": "セン",
+    "kunyomi": "すじ",
+    "english": "line, track",
+    "example": [
+      "沿線 えんせん along railway line (n, adj-no)",
+      "曲線 きょくせん curve (n)",
+      "光線 こうせん beam, light ray (n)",
+      "新幹線 しんかんせん bullet train (very high speed), Shinkansen (n)",
+      "水平線 すいへいせん horizon (related to sea or lakes) (n)"
+    ]
+  },
+  "練": {
+    "onyomi": "レン",
+    "kunyomi": "ね.る, ね.り",
+    "english": "practice, gloss, train, drill, polish, refine",
+    "example": [
+      "未練 みれん lingering affection, attachment, regret(s), reluctance (adj-na, n)",
+      "練る ねる to knead, to work over, to polish up (eg a plan), to drill, to train (v5r, vt)",
+      "練習 れんしゅう practice, practise (n, vs)"
+    ]
+  },
+  "置": {
+    "onyomi": "チ",
+    "kunyomi": "お.く, -お.き",
+    "english": "placement, put, set, deposit, leave behind, keep, employ, pawn",
+    "example": [
+      "処置 しょち treatment, measure, step (n, vs)",
+      "設置 せっち establishment, institution (n, vs)",
+      "前置き まえおき preface, introduction (n, vs)",
+      "措置 そち measure, step (n, vs)",
+      "装置 そうち equipment, installation, apparatus, device (n, vs)"
+    ]
+  },
+  "羊": {
+    "onyomi": "ヨウ",
+    "kunyomi": "ひつじ",
+    "english": "sheep",
+    "example": ["羊毛 ようもう wool (n)"]
+  },
+  "美": {
+    "onyomi": "ビ, ミ",
+    "kunyomi": "うつく.しい",
+    "english": "beauty, beautiful",
+    "example": [
+      "美事 みごと splendid, magnificent, beautiful, admirable, praiseworthy act, feat, commendable deed (adj-na, n)",
+      "讃美 さんび praise, adoration, glorification (n, vs)",
+      "美 び beauty (n, n-suf)",
+      "美しい うつくしい beautiful, lovely (adj)",
+      "美化 びか beautification, glorification (n, vs)"
+    ]
+  },
+  "羽": {
+    "onyomi": "ウ",
+    "kunyomi": "は, わ, はね",
+    "english": "feathers, counter for birds, rabbits",
+    "example": [
+      "羽子 はね feather, plume, wing, blade (fan, propeller, etc.) (n, n)",
+      "羽ばたく はばたく to flap (wings) (v5k, intransitive verb)",
+      "羽織 はおり haori (Japanese formal coat) (n)",
+      "羽 ぱ counter for birds and rabbits (counter)"
+    ]
+  },
+  "老": {
+    "onyomi": "ロウ",
+    "kunyomi": "お.いる, ふ.ける",
+    "english": "old man, old age, grow old",
+    "example": [
+      "敬老 けいろう respect for the aged (n)",
+      "老いる おいる to age, to grow old (Ichidan verb, intransitive verb)",
+      "老後 ろうご old age (n)",
+      "老人 ろうじん the aged, old person (n)",
+      "老若 ろうじゃく young and old, all ages (n, adj-na)"
+    ]
+  },
+  "育": {
+    "onyomi": "イク",
+    "kunyomi": "そだ.つ, そだ.ち, そだ.てる, はぐく.む",
+    "english": "bring up, grow up, raise, rear",
+    "example": [
+      "育ち そだち breeding, growth (n)",
+      "育つ そだつ to be raised (eg child), to be brought up, to grow (up) (v5t, intransitive verb)",
+      "育児 いくじ childcare, nursing, upbringing (n, vs)",
+      "教育 きょういく training, education (n, adj-no, vs)",
+      "飼育 しいく breeding, raising, rearing (n, vs)"
+    ]
+  },
+  "胃": {
+    "onyomi": "イ",
+    "kunyomi": "なし",
+    "english": "stomach, paunch, crop, craw",
+    "example": [
+      "胃 い stomach (n)",
+      "胃腸 いちょう stomach, gastrointestine (adj-na, n)"
+    ]
+  },
+  "脈": {
+    "onyomi": "ミャク",
+    "kunyomi": "すじ",
+    "english": "vein, pulse, hope",
+    "example": [
+      "山脈 やまなみ mountain range (n)",
+      "動脈 どうみゃく artery (n)",
+      "文脈 ぶんみゃく context (n)",
+      "脈 みゃく pulse (n)",
+      "脈絡 みゃくらく chain of reasoning, logical connection, coherence, context (n)"
+    ]
+  },
+  "腸": {
+    "onyomi": "チョウ",
+    "kunyomi": "はらわた",
+    "english": "intestines, guts, bowels, viscera",
+    "example": [
+      "胃腸 いちょう stomach, gastrointestine (adj-na, n)",
+      "腸 わた guts, bowels, intestines (n)",
+      "盲腸 もうちょう appendix, caecum (n)"
+    ]
+  },
+  "臣": {
+    "onyomi": "シン, ジン",
+    "kunyomi": "なし",
+    "english": "retainer, subject",
+    "example": [
+      "総理大臣 そうりだいじん Prime Minister (n)",
+      "大臣 だいじん cabinet minister (n)"
+    ]
+  },
+  "航": {
+    "onyomi": "コウ",
+    "kunyomi": "なし",
+    "english": "navigate, sail, cruise, fly",
+    "example": [
+      "航海 こうかい sail, voyage (n, vs)",
+      "航空 こうくう aviation, flying (n)",
+      "航空機 こうくうき aircraft, aeroplane, airplane (n)",
+      "航空便 こうくうびん air mail (n)",
+      "航路 こうろ course, (sea) route, run (n)"
+    ]
+  },
+  "船": {
+    "onyomi": "セン",
+    "kunyomi": "ふね, ふな-",
+    "english": "ship, boat",
+    "example": [
+      "汽船 きせん steamship, steamboat, steamer (n)",
+      "漁船 ぎょせん fishing boat (n)",
+      "船長 せんちょう ship's captain (n)",
+      "船舶 せんぱく ship (n)",
+      "船便 ふなびん surface mail (ship) (n)"
+    ]
+  },
+  "良": {
+    "onyomi": "リョウ",
+    "kunyomi": "よ.い, -よ.い, い.い, -い.い",
+    "english": "good, pleasing, skilled",
+    "example": [
+      "改良 かいりょう improvement, reform (n, vs)",
+      "仲良く なかよく making friends with, getting along well with, on cordial terms (adv, n, vs)",
+      "不良 ふりょう badness, delinquent, inferiority, failure (adj-na, n)",
+      "良好 りょうこう favorable, favourable, satisfactory (adj-na, n)",
+      "良心 りょうしん conscience (n)"
+    ]
+  },
+  "芸": {
+    "onyomi": "ゲイ, ウン",
+    "kunyomi": "う.える, のり, わざ",
+    "english": "technique, art, craft, performance, acting, trick, stunt",
+    "example": [
+      "園芸 えんげい horticulture, gardening (n)",
+      "芸術 げいじゅつ (fine) art, the arts (n)",
+      "芸能 げいのう public entertainment, accomplishments, attainments (n)",
+      "工芸 こうげい industrial arts (n)",
+      "文芸 ぶんげい literature, art and literature, belles-lettres (n)"
+    ]
+  },
+  "芽": {
+    "onyomi": "ガ",
+    "kunyomi": "め",
+    "english": "bud, sprout, spear, germ",
+    "example": ["芽 め sprout (n)", "発芽 はつが burgeoning (n, vs)"]
+  },
+  "苦": {
+    "onyomi": "ク",
+    "kunyomi": "くる.しい, -ぐる.しい, くる.しむ, くる.しめる, にが.い, にが.る",
+    "english": "suffering, trial, worry, hardship, feel bitter, scowl",
+    "example": [
+      "ご苦労様 ごくろうさま thank you very much for your ..., I appreciate your efforts (exp, adj-na)",
+      "苦い にがい bitter (adj)",
+      "苦しい くるしい painful, difficult (adj)",
+      "苦しみ くるしみ pain, anguish, distress, suffering, hardship (n)",
+      "苦しむ くるしむ to suffer, to groan, to be worried (v5m, intransitive verb)"
+    ]
+  },
+  "草": {
+    "onyomi": "ソウ",
+    "kunyomi": "くさ, くさ-, -ぐさ",
+    "english": "grass, weeds, herbs, pasture, write, draft",
+    "example": [
+      "雑草 ざっそう weed (n)",
+      "草 くさ grass (n)",
+      "草花 そうか flower, flowering plant (n)",
+      "草原 くさはら grass-covered plain, grasslands, meadows, savannah, prairie, steppe (n)",
+      "草履 ぞうり zori (Japanese footwear sandals) (n)"
+    ]
+  },
+  "荷": {
+    "onyomi": "カ",
+    "kunyomi": "に",
+    "english": "baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight",
+    "example": [
+      "荷 に load, baggage, cargo (n)",
+      "荷造り にづくり packing, baling, crating (n, vs)",
+      "荷物 にもつ luggage, baggage, payload (of a packet, cell, etc.) (n)",
+      "出荷 しゅっか shipping, outgoing freight, forwarding (n, vs)",
+      "入荷 にゅうか arrival of goods, goods received (n, vs)"
+    ]
+  },
+  "落": {
+    "onyomi": "ラク",
+    "kunyomi": "お.ちる, お.ち, お.とす",
+    "english": "fall, drop, come down",
+    "example": [
+      "一段落 ひとだんらく pause (n, vs)",
+      "落ち入る おちいる to fall, to trap, to cave in, to collapse (v5r, intransitive verb)",
+      "見落す みおとす to overlook, to fail to notice, to miss (seeing) (v5s, vt)",
+      "聚落 じゅらく village, community, settlement, town, colony (animals, etc.) (n)",
+      "堕落 だらく depravity, corruption, degradation (n, vs)"
+    ]
+  },
+  "葉": {
+    "onyomi": "ヨウ",
+    "kunyomi": "は",
+    "english": "leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece",
+    "example": [
+      "言葉使い ことばづかい speech, expression, wording (n, vs)",
+      "木ノ葉 きのは foliage, leaves of trees (n)",
+      "葉 は leaf (n)",
+      "黄葉 もみじ autumn colours, fall colors, leaves changing color (colour), leaves turning red, red leaves (n, vs, n)",
+      "枝葉 しよう leaves and branches, side issues, foliage (n)"
+    ]
+  },
+  "虫": {
+    "onyomi": "チュウ, キ",
+    "kunyomi": "むし",
+    "english": "insect, bug, temper",
+    "example": [
+      "害虫 がいちゅう harmful insect, noxious insect (n)",
+      "昆虫 こんちゅう insect, bug (n)",
+      "弱虫 よわむし coward, weakling (n)",
+      "虫 むし insect (n)"
+    ]
+  },
+  "血": {
+    "onyomi": "ケツ",
+    "kunyomi": "ち",
+    "english": "blood",
+    "example": [
+      "血 ち blood, consanguinity (n)",
+      "血圧 けつあつ blood pressure (n)",
+      "血液 けつえき blood (n)",
+      "血縁 けつえん blood relative or relationship, consanguinity (n)",
+      "血管 けっかん blood vessel (n)"
+    ]
+  },
+  "街": {
+    "onyomi": "ガイ, カイ",
+    "kunyomi": "まち",
+    "english": "boulevard, street, town",
+    "example": [
+      "街頭 がいとう in the street (n)",
+      "街道 かいどう highway (esp. one existing from the Edo period), main road (n)",
+      "市街 しがい urban areas, the streets, town, city (n)",
+      "街 ちょう town, block, neighborhood, street, road, 109.09 m, 0.99 hectares (n)",
+      "街並 まちなみ street (of stores and houses), townscape, (look of) stores and houses on street (n)"
+    ]
+  },
+  "衣": {
+    "onyomi": "イ, エ",
+    "kunyomi": "ころも, きぬ, -ぎ",
+    "english": "garment, clothes, dressing",
+    "example": [
+      "衣裳 いしょう clothing, costume, outfit, garment, dress (n)",
+      "衣食住 いしょくじゅう necessities of life (food, clothing and shelter) (n)",
+      "衣服 いふく clothes (n)",
+      "衣料 いりょう clothing (n)",
+      "更衣室 こういしつ locker room, changing room, dressing room (n)"
+    ]
+  },
+  "表": {
+    "onyomi": "ヒョウ",
+    "kunyomi": "おもて, -おもて, あらわ.す, あらわ.れる, あら.わす",
+    "english": "surface, table, chart, diagram",
+    "example": [
+      "公表 こうひょう official announcement, proclamation (n, vs)",
+      "図表 ずひょう chart, diagram, graph, figure (n)",
+      "代表 だいひょう representative, representation, delegation, type, example, model (n, vs)",
+      "発表 はっぴょう announcement, publication (n, vs)",
+      "表 おもて surface, face (ie visible side of an object), front (of a building) of a coin etc (n)"
+    ]
+  },
+  "要": {
+    "onyomi": "ヨウ",
+    "kunyomi": "い.る",
+    "english": "need, main point, essence, pivot, key to",
+    "example": [
+      "強要 きょうよう coercion, extortion (n, vs)",
+      "主要 しゅよう chief, main, principal, major (adj-na, n)",
+      "需要 じゅよう demand, request (n)",
+      "重要 じゅうよう important, momentous, essential, principal, major (adj-na, n)",
+      "不必要 ふひつよう unnecessary (adj-na, n)"
+    ]
+  },
+  "覚": {
+    "onyomi": "カク",
+    "kunyomi": "おぼ.える, さ.ます, さ.める, さと.る",
+    "english": "memorize, learn, remember, awake, sober up",
+    "example": [
+      "覚え おぼえ memory, sense, experience (n)",
+      "覚悟 かくご resolution, resignation, readiness, preparedness (n, vs)",
+      "感覚 かんかく sense, sensation (n, vs)",
+      "幻覚 げんかく hallucination, illusion (n)",
+      "錯覚 さっかく optical illusion, hallucination (n, vs)"
+    ]
+  },
+  "観": {
+    "onyomi": "カン",
+    "kunyomi": "み.る, しめ.す",
+    "english": "outlook, look, appearance, condition, view",
+    "example": [
+      "外観 がいかん appearance, exterior, facade (n)",
+      "楽観的 らっかんてき optimistic, hopeful (adj-na)",
+      "観客 かんきゃく audience, spectator(s) (n)",
+      "観光 かんこう sightseeing (n, vs)",
+      "観察 かんさつ observation, survey (n, vs)"
+    ]
+  },
+  "角": {
+    "onyomi": "カク",
+    "kunyomi": "かど, つの",
+    "english": "angle, corner, square, horn, antlers",
+    "example": [
+      "町角 まちかど street corner (n)",
+      "角 かど corner (eg desk, pavement), edge (n)",
+      "角度 かくど angle (n)",
+      "曲り角 まがりかど street corner, road turn, bend in the road, turning point (n)",
+      "三角 さんかく triangle, triangular (n)"
+    ]
+  },
+  "訓": {
+    "onyomi": "クン, キン",
+    "kunyomi": "おし.える, よ.む, くん.ずる",
+    "english": "instruction, Japanese character reading, explanation, read",
+    "example": [
+      "訓える おしえる to teach, to inform, to instruct (Ichidan verb, vt)",
+      "教訓 きょうくん lesson, precept, moral instruction (n, vs)",
+      "訓連 くんれん practice, practise, training (n, vs)",
+      "特訓 とっくん special training, intensive training, crash course (n, vs)"
+    ]
+  },
+  "記": {
+    "onyomi": "キ",
+    "kunyomi": "しる.す",
+    "english": "scribe, account, narrative",
+    "example": [
+      "記す しるす to note, to write down (v5s)",
+      "記憶 きおく memory, recollection, remembrance, storage (n, vs)",
+      "記号 きごう symbol, code, sign (n, adj-no)",
+      "記事 きじ article, news story, report, account (n)",
+      "記者 きしゃ reporter (n)"
+    ]
+  },
+  "詩": {
+    "onyomi": "シ",
+    "kunyomi": "うた",
+    "english": "poem, poetry",
+    "example": [
+      "詩 うた song, classical Japanese poetry (esp. tanka), modern poetry (n)",
+      "詩人 しじん poet (n)",
+      "詩歌 しか Japanese (and Chinese) poetry (n)"
+    ]
+  },
+  "課": {
+    "onyomi": "カ",
+    "kunyomi": "なし",
+    "english": "chapter, lesson, section, department, division, counter for chapters (of a book)",
+    "example": [
+      "課 か lesson, section (in an organization), division, department, counter for lessons and chapters (of a book) (n, n-suf, counter)",
+      "課税 かぜい taxation (n, vs)",
+      "課題 かだい subject, theme, task (n)",
+      "課長 かちょう section manager, section chief (n)",
+      "課程 かてい course, curriculum (n)"
+    ]
+  },
+  "調": {
+    "onyomi": "チョウ",
+    "kunyomi": "しら.べる, しら.べ, ととの.う, ととの.える",
+    "english": "tune, tone, meter, key (music), writing style, prepare, exorcise, investigate",
+    "example": [
+      "下調べ したしらべ preliminary investigation, preparation (n, vs)",
+      "強調 きょうちょう emphasis, highlight, stress, stressed point (n, vs)",
+      "好調 こうちょう favourable, favorable, promising, satisfactory, in good shape (adj-na, n)",
+      "順調 じゅんちょう favourable, favorable, doing well, OK, all right (adj-na, n)",
+      "体調 たいちょう physical condition (n)"
+    ]
+  },
+  "談": {
+    "onyomi": "ダン",
+    "kunyomi": "なし",
+    "english": "discuss, talk",
+    "example": [
+      "縁談 えんだん marriage proposal, engagement (n)",
+      "会談 かいだん conversation, conference, discussion, interview (n, vs)",
+      "座談会 ざだんかい symposium, round-table discussion (n)",
+      "雑談 ざつだん chatting, idle talk (n, vs)",
+      "商談 しょうだん business discussion, negotiation (n, vs)"
+    ]
+  },
+  "議": {
+    "onyomi": "ギ",
+    "kunyomi": "なし",
+    "english": "deliberation, consultation, debate, consideration",
+    "example": [
+      "会議 かいぎ meeting, conference, session, assembly, council, convention, congress (n, vs)",
+      "議員 ぎいん member of the Diet, congress or parliament (n)",
+      "議会 ぎかい Diet, congress, parliament (n)",
+      "議決 ぎけつ resolution, decision, vote (n, vs)",
+      "議題 ぎだい topic of discussion, agenda (n)"
+    ]
+  },
+  "谷": {
+    "onyomi": "コク",
+    "kunyomi": "たに, きわ.まる",
+    "english": "deliberation, consultation, debate, consideration",
+    "example": ["なし"]
+  },
+  "豆": {
+    "onyomi": "トウ, ズ",
+    "kunyomi": "まめ, まめ-",
+    "english": "beans, pea, midget",
+    "example": [
+      "小豆 あずき adzuki beans (n)",
+      "大豆 だいず soya bean (soybean), soy (Glycine max) (n)",
+      "豆腐 とうふ tofu, bean-curd (n)",
+      "納豆 なっとう natto (fermented soybeans) (n)"
+    ]
+  },
+  "象": {
+    "onyomi": "ショウ, ゾウ",
+    "kunyomi": "かたど.る",
+    "english": "elephant, pattern after, imitate, image, shape, sign (of the times)",
+    "example": [
+      "印象 いんしょう impression (n, vs)",
+      "気象 きしょう weather, climate (n)",
+      "現象 げんしょう phenomenon (n)",
+      "象徴 しょうちょう symbol (n, vs)",
+      "対象 たいしょう target, object (of worship, study, etc.), subject (of taxation, etc.) (n)"
+    ]
+  },
+  "貝": {
+    "onyomi": "バイ",
+    "kunyomi": "ま.ける, ま.かす, お.う",
+    "english": "shellfish",
+    "example": ["貝 かい shell, shellfish (n)", "貝がら かいがら shell (n)"]
+  },
+  "負": {
+    "onyomi": "フ",
+    "kunyomi": "かい",
+    "english": "defeat, negative, -, minus, bear, owe, assume a responsibility",
+    "example": [
+      "勝負 しょうぶ victory or defeat, match, contest, game, bout (n, vs)",
+      "背負う しょう to be burdened with, to carry on back or shoulder (v5s, vt)",
+      "負う おう to bear, to owe (v5s, vt)",
+      "負け まけ defeat, loss, losing (a game) (n)",
+      "負ける まける to lose, to be defeated (Ichidan verb, intransitive verb)"
+    ]
+  },
+  "貨": {
+    "onyomi": "カ",
+    "kunyomi": "たから",
+    "english": "freight, goods, property",
+    "example": [
+      "貨車 かしゃ freight car, van (n)",
+      "adhere, attach, refer to, append",
+      "貨幣 かへい money, currency, coinage (n)",
+      "外貨 がいか imported goods, foreign money (n)",
+      "硬貨 こうか coin (n)"
+    ]
+  },
+  "貯": {
+    "onyomi": "チョ",
+    "kunyomi": "た.める, たくわ.える",
+    "english": "savings, store, lay in, keep, wear mustache",
+    "example": [
+      "貯金 ちょきん (bank) savings (n, vs)",
+      "貯える たくわえる to store, to lay in stock (Ichidan verb, vt)"
+    ]
+  },
+  "費": {
+    "onyomi": "ヒ",
+    "kunyomi": "つい.やす, つい.える",
+    "english": "expense, cost, spend, consume, waste",
+    "example": [
+      "会費 かいひ membership fee (n)",
+      "学費 がくひ tuition, school expenses (n)",
+      "経費 けいひ expenses, cost, outlay (n)",
+      "交通費 こうつうひ traveling expenses, travelling expenses, carfare (n)",
+      "光熱費 こうねつひ cost of fuel and light (n)"
+    ]
+  },
+  "賞": {
+    "onyomi": "ショウ",
+    "kunyomi": "ほ.める",
+    "english": "prize, reward, praise",
+    "example": [
+      "観賞 かんしょう admiration, enjoyment (n, vs)",
+      "鑑賞 かんしょう appreciation (eg of art), aesthetic sense (n, vs)",
+      "懸賞 けんしょう offering prizes, winning, reward (n)",
+      "賞 しょう prize, award (n, n-suf)",
+      "賞金 しょうきん prize, monetary award (n)"
+    ]
+  },
+  "路": {
+    "onyomi": "ロ, ル",
+    "kunyomi": "-じ, みち",
+    "english": "path, route, road, distance",
+    "example": [
+      "回路 かいろ circuit (electric) (n)",
+      "航路 こうろ course, (sea) route, run (n)",
+      "高速道路 こうそくどうろ highway, freeway, expressway, motorway (n)",
+      "十字路 じゅうじろ crossroads (n)",
+      "進路 しんろ route, course, career, university choices, course (of future life) (n)"
+    ]
+  },
+  "身": {
+    "onyomi": "シン",
+    "kunyomi": "み",
+    "english": "somebody, person, one's station in life",
+    "example": [
+      "刺し身 さしみ sashimi (sliced raw fish) (n)",
+      "自身 じしん by oneself, personally (n)",
+      "受け身 うけみ passive, passive voice (adj-na, n)",
+      "出身 しゅっしん person's origin (town, city, country, etc.), institution from which one graduated (n)",
+      "上半身 じょうはんしん upper half of body, bust (n)"
+    ]
+  },
+  "軍": {
+    "onyomi": "グン",
+    "kunyomi": "なし",
+    "english": "army, force, troops, war, battle",
+    "example": [
+      "海軍 かいぐん navy (n)",
+      "空軍 くうぐん Air Force (n)",
+      "軍 ぐん army, force, troops (n, n-suf)",
+      "軍拡 ぐんかく military expansion, expansion of armaments (n)",
+      "軍艦 ぐんかん warship, battleship (n)"
+    ]
+  },
+  "輪": {
+    "onyomi": "リン",
+    "kunyomi": "わ",
+    "english": "wheel, ring, circle, link, loop, counter for wheels and flowers",
+    "example": [
+      "車輪 しゃりん (car) wheel (n)",
+      "年輪 ねんりん annual tree ring (n)",
+      "輪ゴム わゴム rubber band (n)",
+      "輪廓 りんかく contours, outlines, features (n)"
+    ]
+  },
+  "辞": {
+    "onyomi": "ジ",
+    "kunyomi": "や.める, いな.む",
+    "english": "resign, word, term, expression",
+    "example": [
+      "御辞儀 おじぎ bow (n, vs)",
+      "御世辞 おせじ flattery, compliment (n)",
+      "辞 けとば language, dialect, word, words, phrase, term, expression, remark, speech, (manner of) speaking (n)",
+      "辞書 じしょ dictionary, lexicon, letter of resignation (n)",
+      "辞職 じしょく resignation (n, vs)"
+    ]
+  },
+  "農": {
+    "onyomi": "ノウ",
+    "kunyomi": "なし",
+    "english": "agriculture, farmers",
+    "example": [
+      "農家 のうか farmer, farm family (n)",
+      "農協 のうきょう agricultural cooperative (n)",
+      "農業 のうぎょう agriculture (n)",
+      "農耕 のうこう farming, agriculture (n)",
+      "農場 のうじょう farm (agriculture) (n)"
+    ]
+  },
+  "辺": {
+    "onyomi": "ヘン",
+    "kunyomi": "あた.り, ほと.り, -べ",
+    "english": "environs, boundary, border, vicinity",
+    "example": [
+      "海辺 かいへん beach, seashore (n)",
+      "岸辺 きしべ bank (of a river) (n)",
+      "周辺 しゅうへん circumference, outskirts, environs, around, in the area of, in the vicinity of, (computer) peripheral (n)",
+      "浜辺 はまべ beach, foreshore (n)",
+      "辺 へん area, vicinity, side (of triangle, rectangle, etc.), circumstances (n)"
+    ]
+  },
+  "返": {
+    "onyomi": "ヘン",
+    "kunyomi": "かえ.す, -かえ.す, かえ.る, -かえ.る",
+    "english": "return, answer, fade, repay",
+    "example": [
+      "引返す ひきかえす to repeat, to send back, to bring back, to retrace one's steps (v5s, vt)",
+      "恩返し おんがえし requital of a favour, requital of a favor (n, vs)",
+      "繰返す くりかえす to repeat, to do something over again (v5s, intransitive verb)",
+      "言返す いいかえす to repeat, to talk back, to answer back (v5s, vt)",
+      "取返す とりかえす to regain, to recover, to get back (v5s, vt)"
+    ]
+  },
+  "追": {
+    "onyomi": "ツイ",
+    "kunyomi": "お.う",
+    "english": "chase, drive away, follow, pursue, meanwhile",
+    "example": [
+      "追いこす おいこす to pass (eg car), to outdistance, to outstrip (v5s, vt)",
+      "追い込む おいこむ to herd, to corner, to drive (v5m, vt)",
+      "追い出す おいだす to expel, to drive out (v5s, vt)",
+      "追加 ついか addition, supplement, append (eg to a file), appendix (n, vs)",
+      "追及 ついきゅう investigation (eg into someone's guilt), questioning, pressing, catching up, overtaking (n, vs)"
+    ]
+  },
+  "速": {
+    "onyomi": "ソク",
+    "kunyomi": "はや.い, はや-, はや.める, すみ.やか",
+    "english": "quick, fast",
+    "example": [
+      "加速 かそく acceleration (n, vs)",
+      "快速 かいそく high speed, celerity, mobility, express (train that bypasses many stations) (adj-na, n)",
+      "急速 きゅうそく rapid (eg progress) (adj-na, n)",
+      "減速 げんそく deceleration (n, vs)",
+      "高速 こうそく high speed, high gear, highway, freeway, expressway, motorway (adj-na, n)"
+    ]
+  },
+  "連": {
+    "onyomi": "レン",
+    "kunyomi": "つら.なる, つら.ねる, つ.れる, -づ.れ",
+    "english": "take along, lead, join, connect, party, gang, clique",
+    "example": [
+      "訓連 くんれん practice, practise, training (n, vs)",
+      "国連 こくれん UN, United Nations (n)",
+      "連ねる つらねる to link, to join, to put together (Ichidan verb, vt)",
+      "連れ つれ companion, company (n, vs)",
+      "連れる つれる to lead, to take (a person) (Ichidan verb)"
+    ]
+  },
+  "遊": {
+    "onyomi": "ユウ, ユ",
+    "kunyomi": "あそ.ぶ, あそ.ばす",
+    "english": "play",
+    "example": [
+      "遊び あそび playing (n, n-suf)",
+      "遊ぶ あそぶ to play, to make a visit (esp. for pleasure), to be idle, to do nothing (v5b, intransitive verb)",
+      "遊園地 ゆうえんち amusement park (n)"
+    ]
+  },
+  "達": {
+    "onyomi": "タツ, ダ",
+    "kunyomi": "-たち",
+    "english": "accomplished, reach, arrive, attain",
+    "example": [
+      "私達 わたくしたち we, us (n)",
+      "上達 じょうたつ improvement, advance, progress (n, vs)",
+      "速達 そくたつ express, special delivery (n, vs)",
+      "達する たっする to reach, to get to (suru verb - special class)",
+      "達成 たっせい achievement (n, vs)"
+    ]
+  },
+  "選": {
+    "onyomi": "セン",
+    "kunyomi": "えら.ぶ",
+    "english": "elect, select, choose, prefer",
+    "example": [
+      "選挙 せんきょ election (n, vs)",
+      "選手 せんしゅ player (in game), team member (n)",
+      "選出 せんしゅつ election (n, vs)",
+      "選択 せんたく selection, choice, option (n, vs)",
+      "選定 せんてい selection (n, vs)"
+    ]
+  },
+  "郡": {
+    "onyomi": "グン",
+    "kunyomi": "こうり",
+    "english": "county, district",
+    "example": ["郡 こおり district, county (n)"]
+  },
+  "部": {
+    "onyomi": "ブ",
+    "kunyomi": "-べ",
+    "english": "section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+    "example": [
+      "一部 いちぶ one part, one portion, one section, some, one copy (eg of a document) (n-adv, n)",
+      "一部分 いちぶぶん part, portion, section (n)",
+      "外部 がいぶ the outside, external (n, adj-no)",
+      "学部 がくぶ department of a university, undergraduate (n)",
+      "幹部 かんぶ management, (executive) staff, leaders (n)"
+    ]
+  },
+  "配": {
+    "onyomi": "ハイ",
+    "kunyomi": "くば.る",
+    "english": "distribute, spouse, exile, rationing",
+    "example": [
+      "気配 きはい indication, sign, hint, presence, trend, quotation (esp. stock market) (n)",
+      "勾配 こうばい slope, incline, gradient, grade, pitch (n)",
+      "支配 しはい rule, control, direction (n, vs)",
+      "手配 てはい arrangement, search (by police) (n, vs)",
+      "心配 しんぱい worry, concern, anxiety, care (adj-na, n, vs)"
+    ]
+  },
+  "酒": {
+    "onyomi": "シュ",
+    "kunyomi": "さけ, さか-",
+    "english": "sake, alcohol",
+    "example": [
+      "居酒屋 いざかや bar, pub, tavern (n)",
+      "禁酒 きんしゅ prohibition, temperance, abstinence (n, vs)",
+      "酒 さけ alcohol, sake (n)",
+      "酒屋 さかや liquor store, wine shop, bottle shop, sake dealer, liquor-store owner, brewer (n)",
+      "日本酒 にほんしゅ sake, Japanese rice wine (n)"
+    ]
+  },
+  "里": {
+    "onyomi": "リ",
+    "kunyomi": "さと",
+    "english": "ri, village, parent's home, league",
+    "example": [
+      "郷里 きょうり birth-place, home town (n)",
+      "里 り ri (old Japanese unit of distance, approx. 3.927km or 2.44 miles), neighbourhood (under the ritsuryo system; orig. of 50 homes), unit of area (approx. 654m by 654m) (n)",
+      "旧里 きゅうり home town, birthplace, old village, historic village, native place, one's old home (n)"
+    ]
+  },
+  "量": {
+    "onyomi": "リョウ",
+    "kunyomi": "はか.る",
+    "english": "quantity, measure, weight, amount, consider, estimate, surmise",
+    "example": [
+      "質量 しつりょう mass (n)",
+      "重量 じゅうりょう weight, heavyweight boxer (n)",
+      "数量 すうりょう quantity, volume (n)",
+      "測量 そくりょう measurement, surveying (n, vs)",
+      "多量 たりょう large quantity (adj-na, n)"
+    ]
+  },
+  "鉄": {
+    "onyomi": "テツ",
+    "kunyomi": "くろがね",
+    "english": "iron",
+    "example": [
+      "国鉄 こくてつ national railway (n)",
+      "私鉄 してつ private railway (n)",
+      "製鉄 せいてつ iron manufacture (n)",
+      "地下鉄 ちかてつ underground train, subway (n)",
+      "鉄 てつ iron (n)"
+    ]
+  },
+  "録": {
+    "onyomi": "ロク",
+    "kunyomi": "なし",
+    "english": "record",
+    "example": [
+      "記録 きろく record, minutes, document, a record (eg in sports), results, score, to record, to document, to set a record (eg in sports), to show a result, to reach a value (n, vs)",
+      "登録 とうろく registration, accession, register, entry, record (n, vs)",
+      "目録 もくろく catalogue, catalog, list (n)",
+      "録音 ろくおん (audio) recording (n, vs)",
+      "録音テープ ろくおんテープ audio tape, magnetic tape (n)"
+    ]
+  },
+  "鏡": {
+    "onyomi": "キョウ, ケイ",
+    "kunyomi": "かがみ",
+    "english": "mirror, speculum, barrel-head, round rice-cake offering",
+    "example": [
+      "鏡 かがみ mirror (n)",
+      "顕微鏡 けんびきょう microscope (n)",
+      "望遠鏡 ぼうえんきょう telescope (n)",
+      "眼鏡 めがね spectacles, glasses (n)"
+    ]
+  },
+  "関": {
+    "onyomi": "カン",
+    "kunyomi": "せき, -ぜき, かか.わる, からくり, かんぬき",
+    "english": "connection, barrier, gateway, involve, concerning",
+    "example": [
+      "関する かんする to concern, to be related (suru verb - special class)",
+      "関係 かんけい relation, connection (n, vs)",
+      "関心 かんしん concern, interest (n)",
+      "関税 かんぜい customs, duty, tariff (n)",
+      "関節 かんせつ joints (knee joint, elbow joint, etc.) (n)"
+    ]
+  },
+  "陸": {
+    "onyomi": "リク, ロク",
+    "kunyomi": "おか",
+    "english": "land, six",
+    "example": [
+      "上陸 じょうりく landing, disembarkation (n, vs)",
+      "大陸 たいりく continent (n)",
+      "着陸 ちゃくりく landing, alighting, touch down (n, vs)",
+      "内陸 ないりく inland (n)",
+      "離陸 りりく takeoff (n, vs)"
+    ]
+  },
+  "陽": {
+    "onyomi": "ヨウ",
+    "kunyomi": "ひ",
+    "english": "sunshine, yang principle, positive, male, heaven, daytime",
+    "example": [
+      "太陽 たいよう sun, solar (n)",
+      "陽気 ようき cheerful, merry, season, weather (adj-na, n)",
+      "陽当たり ひあたり exposure to the sun, sunny place, per day (n)",
+      "陽射し ひざし sunlight, rays of the sun (n)",
+      "陽 よう yang, sunlight-side, warmth, sunshine, surface, appearances (n)"
+    ]
+  },
+  "隊": {
+    "onyomi": "タイ",
+    "kunyomi": "ひ",
+    "english": "regiment, party, company, squad",
+    "example": [
+      "機動隊 きどうたい riot police, riot squad (n)",
+      "軍隊 ぐんたい army, troops (n)",
+      "自衛隊 じえいたい self-defence force, self-defense force, Japan Self-Defence Force, JSDF (n)",
+      "兵隊 へいたい soldier, sailor (n)"
+    ]
+  },
+  "階": {
+    "onyomi": "カイ",
+    "kunyomi": "きざはし",
+    "english": "storey, stair, counter for storeys of a building",
+    "example": [
+      "階 かい stories, storeys, counter for storeys and floors of a building (n, n-suf, counter)",
+      "階級 かいきゅう class, rank, grade (n)",
+      "階段 かいだん stairs, stairway, staircase (n)",
+      "段階 だんかい gradation, grade, stage, steps, order, class, phase (n)",
+      "中産階級 ちゅうさんかいきゅう middle class, bourgeoisie (n)"
+    ]
+  },
+  "雪": {
+    "onyomi": "セツ",
+    "kunyomi": "ゆき",
+    "english": "snow",
+    "example": [
+      "初雪 はつゆき first snow (of season) (n)",
+      "吹雪 ふぶき snow storm (n)",
+      "積雪 せきせつ fallen snow (n)",
+      "雪 ゆき snow (n)",
+      "雪融け ゆきどけ snow thaw, thawing (n, vs)"
+    ]
+  },
+  "雲": {
+    "onyomi": "ウン",
+    "kunyomi": "くも, -ぐも",
+    "english": "cloud",
+    "example": ["雲 くも cloud (n)"]
+  },
+  "静": {
+    "onyomi": "セイ, ジョウ",
+    "kunyomi": "しず-, しず.か, しず.まる, しず.める",
+    "english": "quiet",
+    "example": [
+      "安静 あんせい rest (adj-na, n)",
+      "静止 せいし stillness, repose, standing still (n, vs)",
+      "静粛 せいしゅく silent (adj-na, n)",
+      "冷静 れいせい calm, composure, coolness, serenity (adj-na, n)"
+    ]
+  },
+  "面": {
+    "onyomi": "メン, ベン",
+    "kunyomi": "おも, おもて, つら",
+    "english": "mask, face, features, surface",
+    "example": [
+      "一面 いちめん one face, one surface, the whole surface, one aspect, one side, (on) the other hand, one broad, flat object, front page (n, n, n-adv)",
+      "仮面 かめん mask, disguise (n)",
+      "画面 がめん terminal screen, scene, picture, the field (in TV), photo (n)",
+      "海面 かいめん sea level, (surface of) sea (n)",
+      "外面 げめん outer surface, outward appearance, outside, exterior, outside, outer, outward, exterior, external (n, adj-no)"
+    ]
+  },
+  "順": {
+    "onyomi": "ジュン",
+    "kunyomi": "おも, おもて, つら",
+    "english": "obey, order, turn, right, docility, occasion",
+    "example": [
+      "手順 てじゅん process, procedure, sequence, protocol, instruction (n)",
+      "順 じゅん order, turn (adj-na, n, n-suf)",
+      "順位 じゅんい order, rank, precedence (n)",
+      "順序 じゅんじょ order, sequence, procedure (n)",
+      "順調 じゅんちょう favourable, favorable, doing well, OK, all right (adj-na, n)"
+    ]
+  },
+  "願": {
+    "onyomi": "ガン",
+    "kunyomi": "ねが.う, -ねがい",
+    "english": "petition, request, vow, wish, hope",
+    "example": [
+      "願い ねがい desire, wish, request, prayer, petition, application (n)",
+      "願う ねがう to desire, to wish, to hope, to beg, to request, to implore, to pray, to have something done for oneself (v5s, vt, auxiliary verb)",
+      "願書 がんしょ written application or petition (n)",
+      "祈願 きがん prayer (n, vs)",
+      "出願 しゅつがん application (n, vs)"
+    ]
+  },
+  "類": {
+    "onyomi": "ルイ",
+    "kunyomi": "たぐ.い",
+    "english": "sort, kind, variety, class, genus",
+    "example": [
+      "種類 しゅるい variety, kind, type, category, counter for different sorts of things (n, counter)",
+      "書類 しょるい documents, official papers (n)",
+      "親類 しんるい relation, kin (n)",
+      "人類 じんるい mankind, humanity (n)",
+      "同類 どうるい the same kind, accomplice (n)"
+    ]
+  },
+  "飛": {
+    "onyomi": "ヒ",
+    "kunyomi": "と.ぶ, と.ばす, -と.ばす",
+    "english": "fly, skip (pages), scatter",
+    "example": [
+      "飛上がる とびあがる to spring, to jump up, to fly up, to skip (v5r, intransitive verb)",
+      "飛ばす とばす to fly, to fire, to hurl, to skip over, to omit, to drop (eg stitch), to run or drive fast, to gallop, to spread a rumour (rumor), to tell a story, to remove, to get rid of, to transfer, to attack, to jeer at (v5s, vt)",
+      "飛行 ひこう aviation (n, vs)",
+      "飛行機 ひこうき aeroplane, airplane, aircraft (n)",
+      "飛行場 ひこうじょう airfield, airport (n)"
+    ]
+  },
+  "養": {
+    "onyomi": "ヨウ, リョウ",
+    "kunyomi": "やしな.う",
+    "english": "foster, bring up, rear, develop, nurture",
+    "example": [
+      "営養 えいよう nutrition, nourishment (n)",
+      "休養 きゅうよう rest, break, recreation (n, vs)",
+      "教養 きょうよう culture, education, refinement, cultivation (n, vs)",
+      "扶養 ふよう support, maintenance (n, vs)",
+      "養う やしなう to rear, to maintain, to support (eg family), to cultivate (v5s, vt)"
+    ]
+  },
+  "馬": {
+    "onyomi": "バ",
+    "kunyomi": "うま, うま-, ま",
+    "english": "horse",
+    "example": [
+      "競馬 けいば horse racing (n)",
+      "馬 うま horse, promoted bishop (shogi) (n)"
+    ]
+  },
+  "鳴": {
+    "onyomi": "メイ",
+    "kunyomi": "な.く, な.る, な.らす",
+    "english": "chirp, cry, bark, sound, ring, echo, honk",
+    "example": [
+      "怒鳴る どなる to shout, to yell (v5r, intransitive verb)",
+      "悲鳴 ひめい shriek, scream (n, vs)",
+      "鳴らす ならす to ring, to sound, to chime, to beat, to snort (nose) (v5s, vt)",
+      "鳴る なる to sound, to ring, to resound, to echo, to roar, to rumble (v5r, intransitive verb)"
+    ]
+  },
+  "麦": {
+    "onyomi": "バク",
+    "kunyomi": "むぎ",
+    "english": "barley, wheat",
+    "example": [
+      "蕎麦 そまむぎ buckwheat (Fagopyrum esculentum), soba (Japanese buckwheat noodles) (n)",
+      "小麦 こむぎ wheat (n)",
+      "小麦粉 こむぎこ wheat flour (n)",
+      "大麦 おおむぎ barley (Hordeum vulgare) (n)",
+      "麦 むぎ wheat, barley, oat (oats) (n)"
+    ]
+  },
+  "黄": {
+    "onyomi": "コウ, オウ",
+    "kunyomi": "き, こ-",
+    "english": "yellow",
+    "example": [
+      "黄色い きいろい yellow (adj)",
+      "黄昏 こうこん dusk, twilight (n)",
+      "黄色 おうしょく yellow, amber (adj-na, n)",
+      "黄葉 もみじ autumn colours, fall colors, leaves changing color (colour), leaves turning red, red leaves (n, vs, n)"
+    ]
+  },
+  "鼻": {
+    "onyomi": "ビ",
+    "kunyomi": "はな",
+    "english": "nose, snout",
+    "example": [
+      "耳鼻科 じびか otolaryngology, concerning the ear, nose, and throat (n)",
+      "鼻 はな nose (n)"
+    ]
   }
 }
